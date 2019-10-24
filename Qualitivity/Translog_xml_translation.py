@@ -219,7 +219,7 @@ def processRecordPE(record, first_timestamp, last_timestamp, debug=False):
                     orig_text.insert(pos + index, char)
                 curr_updated_text = ''.join(orig_text)
                 if debug:
-                    print(f"[DEBUG] Inserting characters at position: {pos}")
+                    print(f"[DEBUG] Inserting characters: '{text}' at position: {pos}")
                     print(f"[DEBUG] Current Updated Text = '{curr_updated_text}'")
 
             target_ks = {'Time': str(ts), 'Cursor': position, 'Type': opType, 'Value': text}
@@ -241,7 +241,7 @@ def extractSelectionKeystrokesPE(orig_text, selection, position, text, key, time
     ks_list = []
     curr_updated_text = ''.join(orig_text)
 
-    if debug: print(f"[DEBUG] Updated Text: {curr_updated_text}")
+    if debug: print(f"[DEBUG] Current Updated Text: '{curr_updated_text}'")
 
     start = position
     end = position + len(selection)
@@ -249,7 +249,7 @@ def extractSelectionKeystrokesPE(orig_text, selection, position, text, key, time
 
     to_delete = ''.join(orig_text[start:end])
     if debug:
-        print(f"\t[DEBUG] To delete at position {position}: character {orig_text[position]} : '{to_delete}'")
+        print(f"\t[DEBUG] To delete at position {position}: character '{orig_text[position]}' text: '{to_delete}'")
         print(f"\t[DEBUG] Selection: '{selection}'")
     if selection != to_delete:
         print(f"\t[ERROR] Selection and to_delete doesn't match at position {position}")
@@ -262,7 +262,7 @@ def extractSelectionKeystrokesPE(orig_text, selection, position, text, key, time
     ks_list.append(target_ks)
 
     # Insert Space
-    if key == '[Space]':
+    if key == '[Space]' and text == ' ':
         orig_text.insert(start,' ')
         # Create a keystroke entry for insert
         target_ks = {'Time': str(time), 'Cursor': start, 'Type': "insert", 'Value': ' '}
@@ -270,6 +270,8 @@ def extractSelectionKeystrokesPE(orig_text, selection, position, text, key, time
 
     else:
         # Insert characters
+        if debug:
+            print(f"\t[DEBUG] To insert after delete: '{text}'")
         if text:
             for i,c in enumerate(text):
                 orig_text.insert(start+i,c)
@@ -277,7 +279,7 @@ def extractSelectionKeystrokesPE(orig_text, selection, position, text, key, time
             target_ks = {'Time': str(time), 'Cursor': start, 'Type': "Insert", 'Value': ' '}
             ks_list.append(target_ks)
 
-    if debug: print(f"[DEBUG] Updated Text: {''.join(orig_text)}")
+    if debug: print(f"[DEBUG] Current updated Text after insertion: '{''.join(orig_text)}'")
 
     return orig_text, ks_list
 
@@ -326,6 +328,7 @@ def generateTranslogXmlPE(trados_records, started_time, end_time, source_lang, t
     target_xml['LogFile']['startTime'] = started_time
     target_xml['LogFile']['endTime'] = end_time
     target_xml['LogFile']['Project']['FileName'] = project_name
+    target_xml['LogFile']['Project']['Description'] = "Qualitivity"
     target_xml['LogFile']['Project']['Languages']['@source'] = source_lang
     target_xml['LogFile']['Project']['Languages']['@target'] = target_lang
 
@@ -343,7 +346,7 @@ def addKeystrokesPE(keystrokes, final_stop_ts, target_xml, debug=False):
         target_xml['LogFile']['Events']['Key'] = []
         
     system = target_xml['LogFile']['Events']['System']
-    system.append({'@Time': '0', '@Value': 'START'})
+    system.append({'@Time': '0', '@Value': 'START'})    
     system.append({'@Time': final_stop_ts, '@Value': 'STOP'})
     
 
@@ -393,9 +396,13 @@ if __name__ == '__main__':
     # Define the input and output files
     
     #input_file_path = "PE_EN-PT_2.xml"
-    #output_file_path = "generated_PE_EN-PT_3.xml"
-    input_file_path = "PE_new.xml"
-    output_file_path = "generated_PE_new.xml"
+    
+    # chineese file
+    #input_file_path = "PE_EN-ZH_2.xml"
+    #input_file_path = "PE_new.xml"
+    # Translation
+    input_file_path = "Translation_EN-PT.xml"
+    output_file_path = "generated_"+input_file_path
     template_file_path = "translog_template.xml"
 
     with open(input_file_path, encoding='utf-8') as fd:

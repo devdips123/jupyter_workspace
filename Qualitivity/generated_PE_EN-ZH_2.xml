@@ -1,0 +1,2385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<VersionString/>
+	<startTime>2019-10-04T09:43:19</startTime>
+	<endTime>2019-10-04T09:45:28</endTime>
+	<Project>
+		<FileName>Project 4</FileName>
+		<Description>Qualitivity</Description>
+		<versionString/>
+		<useSourceText/>
+		<promptSubjectName/>
+		<syncEnabled/>
+		<broadcastEnabled/>
+		<udpIP/>
+		<udpPort/>
+		<signalInterval/>
+		<useExtendedTranslations/>
+		<showTimer/>
+		<maxWindow/>
+		<ChineseKeys/>
+		<fullScreen/>
+		<lockWindows/>
+		<Languages source="en" target="zh" task="translating"/>
+		<Plugins>
+			<Key_Logger/>
+		</Plugins>
+		<Interface>
+			<Standard>
+				<pluginDependances/>
+				<Settings>
+					<TargetBackgroundColor RGB="-1"/>
+					<SourceBackgroundColor RGB="-1"/>
+					<lineHeight source="1" target="1"/>
+					<SourceText>Jean-Claude Juncker has called on the British government to publish its Brexit plan in full after Boris Johnson was accused by Ireland’s prime minister of misleading parliament over the impact on the Irish border.
+The move came on a dramatic day during which Johnson’s hopes of securing a deal by the time of a crunch summit appeared to unravel:
+The European parliament’s Brexit steering group insisted the UK proposals did not “even remotely” amount to an acceptable deal for the EU.
+Donald Tusk, the European council president, said Brussels was “unconvinced” by Johnson’s plans, and offered the EU’s full solidarity with Ireland amid claims that Dublin was under pressure to compromise.
+The EU agreed to set David Frost, the prime minister’s chief negotiator, a deadline of one week to offer fresh solutions on the key sticking points.
+Arlene Foster, leader of the Democratic Unionist party, which has given its backing to Johnson’s plans, insisted that the Irish taoiseach, Leo Varadkar, would “go down in history as the man that instituted a hard border on the island of Ireland” if he failed to swallow the UK’s proposals.
+Johnson’s plans for a whistle-stop tour of EU capitals was put in peril after failing to fix meetings with both the German chancellor, Angela Merkel, and Emmanuel Macron, the president of France, due to “scheduling problems”.
+Juncker’s call came after the European commission president spoke on the phone to Varadkar.
+He then issued a statement saying the two men agreed that the UK should open the legal text tabled on Wednesday to public scrutiny.
+</SourceText>
+					<TargetText>让-克洛德·容克（Jean-Claude Juncker）呼吁英国政府全面发布其脱欧计划，此前爱尔兰总理指控鲍哈嘎雅黑·约翰逊（Boris Johnson）误导议会对爱尔兰边界的影响。
+此举发生在充满丫环用途一天，在此期间，约翰逊希望在紧缩峰会之前达成协议的希望破灭了：
+欧洲议会的英国脱欧督导小组坚持认为，英国的提议并不“遥遥无期”地构成欧盟可以接受他日一天后着。
+欧盟理事会主席唐纳德·图斯克（Donald Tusk）表示，布鲁塞尔对约翰逊的计划“不服气”，与她和訮还是与她和。
+欧盟同意将总理首席谈判代表戴维·弗罗斯特（David Frost）的最后期限与她和卷烟很快就会，以就关键症结提供新的解决方案。
+民主联盟党领袖阿琳·福斯特（Arlene Foster）支持约翰逊的计划，他坚称，如果他在爱尔兰岛上建立坚硬的边界，那道道教皇莱奥·瓦拉德卡（Leo Varadkar）将“走上历史”。哈给吉他哥。
+由于“日程安排问题”，约翰逊未能与德国总理安格拉·默克尔（Angela Merkel）和法国总统伊曼纽尔·马克龙（Emmanuel Macron）会晤，导致约翰逊对欧盟各国首都进行口哨之旅的计划陷一哈就骄傲u和。
+欧盟委员会主席在电话中对瓦拉德卡尔（Varadkar）讲话后，垩绢花。
+然后，他发表声明说，两人同意英国应将周三提交的法律文本公开接受u轧花机卷好。
+</TargetText>
+					<TranslationWindow X="-8" Y="-8" Width="1280" Height="1024" Split="449" STO="True" VHO="Horizontal"/>
+				</Settings>
+				<SourceField X="6" Y="56" Width="1272" Height="479"/>
+				<TargetField X="6" Y="539" Width="1272" Height="483"/>
+			</Standard>
+		</Interface>
+	</Project>
+	<Events>
+		<System Time="0" Value="START"/>
+		<System Time="128778" Value="STOP"/>
+		<Key Value="斯" Time="12675" Cursor="56" Type="delete"/>
+		<Key Value="里" Time="13266" Cursor="55" Type="delete"/>
+		<Key Value="h" Time="14526" Cursor="55" Type="insert"/>
+		<Key Value="'g" Time="14695" Cursor="56" Type="insert"/>
+		<Key Value="a" Time="14868" Cursor="58" Type="insert"/>
+		<Key Value="h'ga" Time="16315" Cursor="55" Type="delete"/>
+		<Key Value=" " Time="16315" Cursor="55" Type="Insert"/>
+		<Key Value="y" Time="18016" Cursor="57" Type="insert"/>
+		<Key Value="a" Time="18201" Cursor="58" Type="insert"/>
+		<Key Value="'h" Time="18338" Cursor="59" Type="insert"/>
+		<Key Value="ya'h" Time="20811" Cursor="57" Type="delete"/>
+		<Key Value=" " Time="20811" Cursor="57" Type="Insert"/>
+		<Key Value="&#10;" Time="1570196621878" Cursor="93" Type="Insert"/>
+		<Key Value="戏剧性的" Time="27573" Cursor="101" Type="delete"/>
+		<Key Value="y" Time="29103" Cursor="101" Type="insert"/>
+		<Key Value="a" Time="29319" Cursor="102" Type="insert"/>
+		<Key Value="'h" Time="29502" Cursor="103" Type="insert"/>
+		<Key Value="ya'h" Time="30965" Cursor="101" Type="delete"/>
+		<Key Value=" " Time="30965" Cursor="101" Type="Insert"/>
+		<Key Value="y" Time="32149" Cursor="103" Type="insert"/>
+		<Key Value="'t" Time="32406" Cursor="104" Type="insert"/>
+		<Key Value="y't" Time="34861" Cursor="103" Type="delete"/>
+		<Key Value=" " Time="34861" Cursor="103" Type="Insert"/>
+		<Key Value="&#10;" Time="36521" Cursor="137" Type="Insert"/>
+		<Key Value="的协议" Time="41565" Cursor="178" Type="delete"/>
+		<Key Value="t" Time="41568" Cursor="178" Type="insert"/>
+		<Key Value="a" Time="41764" Cursor="179" Type="insert"/>
+		<Key Value="'r" Time="41878" Cursor="180" Type="insert"/>
+		<Key Value="ta'r" Time="43430" Cursor="178" Type="delete"/>
+		<Key Value=" " Time="43430" Cursor="178" Type="Insert"/>
+		<Key Value="y" Time="43944" Cursor="180" Type="insert"/>
+		<Key Value="'t" Time="44107" Cursor="181" Type="insert"/>
+		<Key Value="'h" Time="44321" Cursor="183" Type="insert"/>
+		<Key Value="y't'h" Time="45688" Cursor="180" Type="delete"/>
+		<Key Value=" " Time="45688" Cursor="180" Type="Insert"/>
+		<Key Value="i" Time="46700" Cursor="183" Type="insert"/>
+		<Key Value="o" Time="46872" Cursor="184" Type="insert"/>
+		<Key Value="s" Time="47046" Cursor="185" Type="insert"/>
+		<Key Value="s" Time="48159" Cursor="185" Type="delete"/>
+		<Key Value="o" Time="48533" Cursor="184" Type="delete"/>
+		<Key Value="i" Time="48799" Cursor="183" Type="delete"/>
+		<Key Value="u" Time="50139" Cursor="183" Type="insert"/>
+		<Key Value="'y" Time="50259" Cursor="184" Type="insert"/>
+		<Key Value="u'y" Time="53534" Cursor="183" Type="delete"/>
+		<Key Value=" " Time="53534" Cursor="183" Type="Insert"/>
+		<Key Value="&#10;" Time="54736" Cursor="186" Type="Insert"/>
+		<Key Value="并表示欧盟完全支持爱尔兰，理由是都柏林面临妥协的压力" Time="60632" Cursor="234" Type="delete"/>
+		<Key Value="y" Time="61585" Cursor="234" Type="insert"/>
+		<Key Value="'t" Time="61760" Cursor="235" Type="insert"/>
+		<Key Value="a" Time="62297" Cursor="237" Type="insert"/>
+		<Key Value="'h" Time="62482" Cursor="238" Type="insert"/>
+		<Key Value="y'ta'h" Time="64012" Cursor="234" Type="delete"/>
+		<Key Value=" " Time="64012" Cursor="234" Type="Insert"/>
+		<Key Value="u" Time="64655" Cursor="237" Type="insert"/>
+		<Key Value="'y" Time="64823" Cursor="238" Type="insert"/>
+		<Key Value="'h" Time="64983" Cursor="240" Type="insert"/>
+		<Key Value="'g" Time="65276" Cursor="242" Type="insert"/>
+		<Key Value="u'y'h'g" Time="65969" Cursor="237" Type="delete"/>
+		<Key Value=" " Time="65969" Cursor="237" Type="Insert"/>
+		<Key Value="h" Time="66427" Cursor="238" Type="insert"/>
+		<Key Value="'s" Time="66789" Cursor="239" Type="insert"/>
+		<Key Value="h's" Time="67706" Cursor="238" Type="delete"/>
+		<Key Value=" " Time="67706" Cursor="238" Type="Insert"/>
+		<Key Value="y" Time="68690" Cursor="240" Type="insert"/>
+		<Key Value="'t" Time="68874" Cursor="241" Type="insert"/>
+		<Key Value="a" Time="68967" Cursor="243" Type="insert"/>
+		<Key Value="'h" Time="69135" Cursor="244" Type="insert"/>
+		<Key Value="y'ta'h" Time="69866" Cursor="240" Type="delete"/>
+		<Key Value=" " Time="69866" Cursor="240" Type="Insert"/>
+		<Key Value="&#10;" Time="70818" Cursor="245" Type="Insert"/>
+		<Key Value="定为一周" Time="73717" Cursor="284" Type="delete"/>
+		<Key Value="y" Time="73720" Cursor="284" Type="insert"/>
+		<Key Value="'t" Time="73865" Cursor="285" Type="insert"/>
+		<Key Value="a" Time="73963" Cursor="287" Type="insert"/>
+		<Key Value="'h" Time="74096" Cursor="288" Type="insert"/>
+		<Key Value="y'ta'h" Time="74888" Cursor="284" Type="delete"/>
+		<Key Value=" " Time="74888" Cursor="284" Type="Insert"/>
+		<Key Value="j" Time="75787" Cursor="287" Type="insert"/>
+		<Key Value="u" Time="75954" Cursor="288" Type="insert"/>
+		<Key Value="a" Time="76062" Cursor="289" Type="insert"/>
+		<Key Value="'y" Time="76139" Cursor="290" Type="insert"/>
+		<Key Value="'h" Time="76325" Cursor="292" Type="insert"/>
+		<Key Value="'k" Time="76519" Cursor="294" Type="insert"/>
+		<Key Value="jua'y'h'k" Time="77792" Cursor="287" Type="delete"/>
+		<Key Value=" " Time="77792" Cursor="287" Type="Insert"/>
+		<Key Value="h'k" Time="77840" Cursor="289" Type="insert"/>
+		<Key Value="h'k" Time="80795" Cursor="289" Type="delete"/>
+		<Key Value=" " Time="80795" Cursor="289" Type="Insert"/>
+		<Key Value="j" Time="81654" Cursor="291" Type="insert"/>
+		<Key Value="'h" Time="81779" Cursor="292" Type="insert"/>
+		<Key Value="j'h" Time="83233" Cursor="291" Type="delete"/>
+		<Key Value=" " Time="83233" Cursor="291" Type="Insert"/>
+		<Key Value="&#10;" Time="84234" Cursor="310" Type="Insert"/>
+		<Key Value="没有接受英国的建议" Time="91162" Cursor="403" Type="delete"/>
+		<Key Value="h" Time="91166" Cursor="403" Type="insert"/>
+		<Key Value="'g" Time="91317" Cursor="404" Type="insert"/>
+		<Key Value="h'g" Time="92489" Cursor="403" Type="delete"/>
+		<Key Value=" " Time="92489" Cursor="403" Type="Insert"/>
+		<Key Value="j" Time="92890" Cursor="405" Type="insert"/>
+		<Key Value="'t" Time="94884" Cursor="406" Type="insert"/>
+		<Key Value="a" Time="95021" Cursor="408" Type="insert"/>
+		<Key Value="'g" Time="95225" Cursor="409" Type="insert"/>
+		<Key Value="j'ta'g" Time="96039" Cursor="405" Type="delete"/>
+		<Key Value=" " Time="96039" Cursor="405" Type="Insert"/>
+		<Key Value="&#10;" Time="96978" Cursor="410" Type="Insert"/>
+		<Key Value="入了危险" Time="101945" Cursor="509" Type="delete"/>
+		<Key Value="y" Time="101948" Cursor="509" Type="insert"/>
+		<Key Value="'h" Time="102105" Cursor="510" Type="insert"/>
+		<Key Value="a" Time="102236" Cursor="512" Type="insert"/>
+		<Key Value="'j" Time="102321" Cursor="513" Type="insert"/>
+		<Key Value="y'ha'j" Time="103315" Cursor="509" Type="delete"/>
+		<Key Value=" " Time="103315" Cursor="509" Type="Insert"/>
+		<Key Value="j" Time="104136" Cursor="512" Type="insert"/>
+		<Key Value="'a" Time="104330" Cursor="513" Type="insert"/>
+		<Key Value="'u" Time="104412" Cursor="515" Type="insert"/>
+		<Key Value="'h" Time="104589" Cursor="517" Type="insert"/>
+		<Key Value="j'a'u'h" Time="105787" Cursor="512" Type="delete"/>
+		<Key Value=" " Time="105787" Cursor="512" Type="Insert"/>
+		<Key Value="&#10;" Time="106407" Cursor="518" Type="Insert"/>
+		<Key Value="容克打了电话" Time="111126" Cursor="550" Type="delete"/>
+		<Key Value="u" Time="111129" Cursor="550" Type="insert"/>
+		<Key Value="'y" Time="111276" Cursor="551" Type="insert"/>
+		<Key Value="a" Time="111402" Cursor="553" Type="insert"/>
+		<Key Value="'h" Time="111518" Cursor="554" Type="insert"/>
+		<Key Value="u'ya'h" Time="112653" Cursor="550" Type="delete"/>
+		<Key Value=" " Time="112653" Cursor="550" Type="Insert"/>
+		<Key Value="j" Time="113544" Cursor="551" Type="insert"/>
+		<Key Value="u" Time="113711" Cursor="552" Type="insert"/>
+		<Key Value="a" Time="113817" Cursor="553" Type="insert"/>
+		<Key Value="'h" Time="113915" Cursor="554" Type="insert"/>
+		<Key Value="jua'h" Time="115416" Cursor="551" Type="delete"/>
+		<Key Value=" " Time="115416" Cursor="551" Type="Insert"/>
+		<Key Value="&#10;" Time="116157" Cursor="555" Type="Insert"/>
+		<Key Value="公众审查" Time="118769" Cursor="587" Type="delete"/>
+		<Key Value="u" Time="119125" Cursor="587" Type="insert"/>
+		<Key Value="'y" Time="119286" Cursor="588" Type="insert"/>
+		<Key Value="a" Time="119539" Cursor="590" Type="insert"/>
+		<Key Value="'h" Time="119656" Cursor="591" Type="insert"/>
+		<Key Value="'j" Time="119847" Cursor="593" Type="insert"/>
+		<Key Value="'ya'h'j" Time="121610" Cursor="588" Type="delete"/>
+		<Key Value=" " Time="121610" Cursor="588" Type="Insert"/>
+		<Key Value="j" Time="122510" Cursor="591" Type="insert"/>
+		<Key Value="u" Time="122643" Cursor="592" Type="insert"/>
+		<Key Value="a" Time="122761" Cursor="593" Type="insert"/>
+		<Key Value="'h" Time="122843" Cursor="594" Type="insert"/>
+		<Key Value="jua'h" Time="124362" Cursor="591" Type="delete"/>
+		<Key Value=" " Time="124362" Cursor="591" Type="Insert"/>
+		<Key Value="&#10;" Time="128778" Cursor="595" Type="Insert"/>
+	</Events>
+	<FinalText/>
+	<TranslationChar/>
+	<SourceTextChar>
+		<CharPos Cursor="0" Value="J"/>
+		<CharPos Cursor="1" Value="e"/>
+		<CharPos Cursor="2" Value="a"/>
+		<CharPos Cursor="3" Value="n"/>
+		<CharPos Cursor="4" Value="-"/>
+		<CharPos Cursor="5" Value="C"/>
+		<CharPos Cursor="6" Value="l"/>
+		<CharPos Cursor="7" Value="a"/>
+		<CharPos Cursor="8" Value="u"/>
+		<CharPos Cursor="9" Value="d"/>
+		<CharPos Cursor="10" Value="e"/>
+		<CharPos Cursor="11" Value=" "/>
+		<CharPos Cursor="12" Value="J"/>
+		<CharPos Cursor="13" Value="u"/>
+		<CharPos Cursor="14" Value="n"/>
+		<CharPos Cursor="15" Value="c"/>
+		<CharPos Cursor="16" Value="k"/>
+		<CharPos Cursor="17" Value="e"/>
+		<CharPos Cursor="18" Value="r"/>
+		<CharPos Cursor="19" Value=" "/>
+		<CharPos Cursor="20" Value="h"/>
+		<CharPos Cursor="21" Value="a"/>
+		<CharPos Cursor="22" Value="s"/>
+		<CharPos Cursor="23" Value=" "/>
+		<CharPos Cursor="24" Value="c"/>
+		<CharPos Cursor="25" Value="a"/>
+		<CharPos Cursor="26" Value="l"/>
+		<CharPos Cursor="27" Value="l"/>
+		<CharPos Cursor="28" Value="e"/>
+		<CharPos Cursor="29" Value="d"/>
+		<CharPos Cursor="30" Value=" "/>
+		<CharPos Cursor="31" Value="o"/>
+		<CharPos Cursor="32" Value="n"/>
+		<CharPos Cursor="33" Value=" "/>
+		<CharPos Cursor="34" Value="t"/>
+		<CharPos Cursor="35" Value="h"/>
+		<CharPos Cursor="36" Value="e"/>
+		<CharPos Cursor="37" Value=" "/>
+		<CharPos Cursor="38" Value="B"/>
+		<CharPos Cursor="39" Value="r"/>
+		<CharPos Cursor="40" Value="i"/>
+		<CharPos Cursor="41" Value="t"/>
+		<CharPos Cursor="42" Value="i"/>
+		<CharPos Cursor="43" Value="s"/>
+		<CharPos Cursor="44" Value="h"/>
+		<CharPos Cursor="45" Value=" "/>
+		<CharPos Cursor="46" Value="g"/>
+		<CharPos Cursor="47" Value="o"/>
+		<CharPos Cursor="48" Value="v"/>
+		<CharPos Cursor="49" Value="e"/>
+		<CharPos Cursor="50" Value="r"/>
+		<CharPos Cursor="51" Value="n"/>
+		<CharPos Cursor="52" Value="m"/>
+		<CharPos Cursor="53" Value="e"/>
+		<CharPos Cursor="54" Value="n"/>
+		<CharPos Cursor="55" Value="t"/>
+		<CharPos Cursor="56" Value=" "/>
+		<CharPos Cursor="57" Value="t"/>
+		<CharPos Cursor="58" Value="o"/>
+		<CharPos Cursor="59" Value=" "/>
+		<CharPos Cursor="60" Value="p"/>
+		<CharPos Cursor="61" Value="u"/>
+		<CharPos Cursor="62" Value="b"/>
+		<CharPos Cursor="63" Value="l"/>
+		<CharPos Cursor="64" Value="i"/>
+		<CharPos Cursor="65" Value="s"/>
+		<CharPos Cursor="66" Value="h"/>
+		<CharPos Cursor="67" Value=" "/>
+		<CharPos Cursor="68" Value="i"/>
+		<CharPos Cursor="69" Value="t"/>
+		<CharPos Cursor="70" Value="s"/>
+		<CharPos Cursor="71" Value=" "/>
+		<CharPos Cursor="72" Value="B"/>
+		<CharPos Cursor="73" Value="r"/>
+		<CharPos Cursor="74" Value="e"/>
+		<CharPos Cursor="75" Value="x"/>
+		<CharPos Cursor="76" Value="i"/>
+		<CharPos Cursor="77" Value="t"/>
+		<CharPos Cursor="78" Value=" "/>
+		<CharPos Cursor="79" Value="p"/>
+		<CharPos Cursor="80" Value="l"/>
+		<CharPos Cursor="81" Value="a"/>
+		<CharPos Cursor="82" Value="n"/>
+		<CharPos Cursor="83" Value=" "/>
+		<CharPos Cursor="84" Value="i"/>
+		<CharPos Cursor="85" Value="n"/>
+		<CharPos Cursor="86" Value=" "/>
+		<CharPos Cursor="87" Value="f"/>
+		<CharPos Cursor="88" Value="u"/>
+		<CharPos Cursor="89" Value="l"/>
+		<CharPos Cursor="90" Value="l"/>
+		<CharPos Cursor="91" Value=" "/>
+		<CharPos Cursor="92" Value="a"/>
+		<CharPos Cursor="93" Value="f"/>
+		<CharPos Cursor="94" Value="t"/>
+		<CharPos Cursor="95" Value="e"/>
+		<CharPos Cursor="96" Value="r"/>
+		<CharPos Cursor="97" Value=" "/>
+		<CharPos Cursor="98" Value="B"/>
+		<CharPos Cursor="99" Value="o"/>
+		<CharPos Cursor="100" Value="r"/>
+		<CharPos Cursor="101" Value="i"/>
+		<CharPos Cursor="102" Value="s"/>
+		<CharPos Cursor="103" Value=" "/>
+		<CharPos Cursor="104" Value="J"/>
+		<CharPos Cursor="105" Value="o"/>
+		<CharPos Cursor="106" Value="h"/>
+		<CharPos Cursor="107" Value="n"/>
+		<CharPos Cursor="108" Value="s"/>
+		<CharPos Cursor="109" Value="o"/>
+		<CharPos Cursor="110" Value="n"/>
+		<CharPos Cursor="111" Value=" "/>
+		<CharPos Cursor="112" Value="w"/>
+		<CharPos Cursor="113" Value="a"/>
+		<CharPos Cursor="114" Value="s"/>
+		<CharPos Cursor="115" Value=" "/>
+		<CharPos Cursor="116" Value="a"/>
+		<CharPos Cursor="117" Value="c"/>
+		<CharPos Cursor="118" Value="c"/>
+		<CharPos Cursor="119" Value="u"/>
+		<CharPos Cursor="120" Value="s"/>
+		<CharPos Cursor="121" Value="e"/>
+		<CharPos Cursor="122" Value="d"/>
+		<CharPos Cursor="123" Value=" "/>
+		<CharPos Cursor="124" Value="b"/>
+		<CharPos Cursor="125" Value="y"/>
+		<CharPos Cursor="126" Value=" "/>
+		<CharPos Cursor="127" Value="I"/>
+		<CharPos Cursor="128" Value="r"/>
+		<CharPos Cursor="129" Value="e"/>
+		<CharPos Cursor="130" Value="l"/>
+		<CharPos Cursor="131" Value="a"/>
+		<CharPos Cursor="132" Value="n"/>
+		<CharPos Cursor="133" Value="d"/>
+		<CharPos Cursor="134" Value="’"/>
+		<CharPos Cursor="135" Value="s"/>
+		<CharPos Cursor="136" Value=" "/>
+		<CharPos Cursor="137" Value="p"/>
+		<CharPos Cursor="138" Value="r"/>
+		<CharPos Cursor="139" Value="i"/>
+		<CharPos Cursor="140" Value="m"/>
+		<CharPos Cursor="141" Value="e"/>
+		<CharPos Cursor="142" Value=" "/>
+		<CharPos Cursor="143" Value="m"/>
+		<CharPos Cursor="144" Value="i"/>
+		<CharPos Cursor="145" Value="n"/>
+		<CharPos Cursor="146" Value="i"/>
+		<CharPos Cursor="147" Value="s"/>
+		<CharPos Cursor="148" Value="t"/>
+		<CharPos Cursor="149" Value="e"/>
+		<CharPos Cursor="150" Value="r"/>
+		<CharPos Cursor="151" Value=" "/>
+		<CharPos Cursor="152" Value="o"/>
+		<CharPos Cursor="153" Value="f"/>
+		<CharPos Cursor="154" Value=" "/>
+		<CharPos Cursor="155" Value="m"/>
+		<CharPos Cursor="156" Value="i"/>
+		<CharPos Cursor="157" Value="s"/>
+		<CharPos Cursor="158" Value="l"/>
+		<CharPos Cursor="159" Value="e"/>
+		<CharPos Cursor="160" Value="a"/>
+		<CharPos Cursor="161" Value="d"/>
+		<CharPos Cursor="162" Value="i"/>
+		<CharPos Cursor="163" Value="n"/>
+		<CharPos Cursor="164" Value="g"/>
+		<CharPos Cursor="165" Value=" "/>
+		<CharPos Cursor="166" Value="p"/>
+		<CharPos Cursor="167" Value="a"/>
+		<CharPos Cursor="168" Value="r"/>
+		<CharPos Cursor="169" Value="l"/>
+		<CharPos Cursor="170" Value="i"/>
+		<CharPos Cursor="171" Value="a"/>
+		<CharPos Cursor="172" Value="m"/>
+		<CharPos Cursor="173" Value="e"/>
+		<CharPos Cursor="174" Value="n"/>
+		<CharPos Cursor="175" Value="t"/>
+		<CharPos Cursor="176" Value=" "/>
+		<CharPos Cursor="177" Value="o"/>
+		<CharPos Cursor="178" Value="v"/>
+		<CharPos Cursor="179" Value="e"/>
+		<CharPos Cursor="180" Value="r"/>
+		<CharPos Cursor="181" Value=" "/>
+		<CharPos Cursor="182" Value="t"/>
+		<CharPos Cursor="183" Value="h"/>
+		<CharPos Cursor="184" Value="e"/>
+		<CharPos Cursor="185" Value=" "/>
+		<CharPos Cursor="186" Value="i"/>
+		<CharPos Cursor="187" Value="m"/>
+		<CharPos Cursor="188" Value="p"/>
+		<CharPos Cursor="189" Value="a"/>
+		<CharPos Cursor="190" Value="c"/>
+		<CharPos Cursor="191" Value="t"/>
+		<CharPos Cursor="192" Value=" "/>
+		<CharPos Cursor="193" Value="o"/>
+		<CharPos Cursor="194" Value="n"/>
+		<CharPos Cursor="195" Value=" "/>
+		<CharPos Cursor="196" Value="t"/>
+		<CharPos Cursor="197" Value="h"/>
+		<CharPos Cursor="198" Value="e"/>
+		<CharPos Cursor="199" Value=" "/>
+		<CharPos Cursor="200" Value="I"/>
+		<CharPos Cursor="201" Value="r"/>
+		<CharPos Cursor="202" Value="i"/>
+		<CharPos Cursor="203" Value="s"/>
+		<CharPos Cursor="204" Value="h"/>
+		<CharPos Cursor="205" Value=" "/>
+		<CharPos Cursor="206" Value="b"/>
+		<CharPos Cursor="207" Value="o"/>
+		<CharPos Cursor="208" Value="r"/>
+		<CharPos Cursor="209" Value="d"/>
+		<CharPos Cursor="210" Value="e"/>
+		<CharPos Cursor="211" Value="r"/>
+		<CharPos Cursor="212" Value="."/>
+		<CharPos Cursor="213" Value="&#10;"/>
+		<CharPos Cursor="214" Value="T"/>
+		<CharPos Cursor="215" Value="h"/>
+		<CharPos Cursor="216" Value="e"/>
+		<CharPos Cursor="217" Value=" "/>
+		<CharPos Cursor="218" Value="m"/>
+		<CharPos Cursor="219" Value="o"/>
+		<CharPos Cursor="220" Value="v"/>
+		<CharPos Cursor="221" Value="e"/>
+		<CharPos Cursor="222" Value=" "/>
+		<CharPos Cursor="223" Value="c"/>
+		<CharPos Cursor="224" Value="a"/>
+		<CharPos Cursor="225" Value="m"/>
+		<CharPos Cursor="226" Value="e"/>
+		<CharPos Cursor="227" Value=" "/>
+		<CharPos Cursor="228" Value="o"/>
+		<CharPos Cursor="229" Value="n"/>
+		<CharPos Cursor="230" Value=" "/>
+		<CharPos Cursor="231" Value="a"/>
+		<CharPos Cursor="232" Value=" "/>
+		<CharPos Cursor="233" Value="d"/>
+		<CharPos Cursor="234" Value="r"/>
+		<CharPos Cursor="235" Value="a"/>
+		<CharPos Cursor="236" Value="m"/>
+		<CharPos Cursor="237" Value="a"/>
+		<CharPos Cursor="238" Value="t"/>
+		<CharPos Cursor="239" Value="i"/>
+		<CharPos Cursor="240" Value="c"/>
+		<CharPos Cursor="241" Value=" "/>
+		<CharPos Cursor="242" Value="d"/>
+		<CharPos Cursor="243" Value="a"/>
+		<CharPos Cursor="244" Value="y"/>
+		<CharPos Cursor="245" Value=" "/>
+		<CharPos Cursor="246" Value="d"/>
+		<CharPos Cursor="247" Value="u"/>
+		<CharPos Cursor="248" Value="r"/>
+		<CharPos Cursor="249" Value="i"/>
+		<CharPos Cursor="250" Value="n"/>
+		<CharPos Cursor="251" Value="g"/>
+		<CharPos Cursor="252" Value=" "/>
+		<CharPos Cursor="253" Value="w"/>
+		<CharPos Cursor="254" Value="h"/>
+		<CharPos Cursor="255" Value="i"/>
+		<CharPos Cursor="256" Value="c"/>
+		<CharPos Cursor="257" Value="h"/>
+		<CharPos Cursor="258" Value=" "/>
+		<CharPos Cursor="259" Value="J"/>
+		<CharPos Cursor="260" Value="o"/>
+		<CharPos Cursor="261" Value="h"/>
+		<CharPos Cursor="262" Value="n"/>
+		<CharPos Cursor="263" Value="s"/>
+		<CharPos Cursor="264" Value="o"/>
+		<CharPos Cursor="265" Value="n"/>
+		<CharPos Cursor="266" Value="’"/>
+		<CharPos Cursor="267" Value="s"/>
+		<CharPos Cursor="268" Value=" "/>
+		<CharPos Cursor="269" Value="h"/>
+		<CharPos Cursor="270" Value="o"/>
+		<CharPos Cursor="271" Value="p"/>
+		<CharPos Cursor="272" Value="e"/>
+		<CharPos Cursor="273" Value="s"/>
+		<CharPos Cursor="274" Value=" "/>
+		<CharPos Cursor="275" Value="o"/>
+		<CharPos Cursor="276" Value="f"/>
+		<CharPos Cursor="277" Value=" "/>
+		<CharPos Cursor="278" Value="s"/>
+		<CharPos Cursor="279" Value="e"/>
+		<CharPos Cursor="280" Value="c"/>
+		<CharPos Cursor="281" Value="u"/>
+		<CharPos Cursor="282" Value="r"/>
+		<CharPos Cursor="283" Value="i"/>
+		<CharPos Cursor="284" Value="n"/>
+		<CharPos Cursor="285" Value="g"/>
+		<CharPos Cursor="286" Value=" "/>
+		<CharPos Cursor="287" Value="a"/>
+		<CharPos Cursor="288" Value=" "/>
+		<CharPos Cursor="289" Value="d"/>
+		<CharPos Cursor="290" Value="e"/>
+		<CharPos Cursor="291" Value="a"/>
+		<CharPos Cursor="292" Value="l"/>
+		<CharPos Cursor="293" Value=" "/>
+		<CharPos Cursor="294" Value="b"/>
+		<CharPos Cursor="295" Value="y"/>
+		<CharPos Cursor="296" Value=" "/>
+		<CharPos Cursor="297" Value="t"/>
+		<CharPos Cursor="298" Value="h"/>
+		<CharPos Cursor="299" Value="e"/>
+		<CharPos Cursor="300" Value=" "/>
+		<CharPos Cursor="301" Value="t"/>
+		<CharPos Cursor="302" Value="i"/>
+		<CharPos Cursor="303" Value="m"/>
+		<CharPos Cursor="304" Value="e"/>
+		<CharPos Cursor="305" Value=" "/>
+		<CharPos Cursor="306" Value="o"/>
+		<CharPos Cursor="307" Value="f"/>
+		<CharPos Cursor="308" Value=" "/>
+		<CharPos Cursor="309" Value="a"/>
+		<CharPos Cursor="310" Value=" "/>
+		<CharPos Cursor="311" Value="c"/>
+		<CharPos Cursor="312" Value="r"/>
+		<CharPos Cursor="313" Value="u"/>
+		<CharPos Cursor="314" Value="n"/>
+		<CharPos Cursor="315" Value="c"/>
+		<CharPos Cursor="316" Value="h"/>
+		<CharPos Cursor="317" Value=" "/>
+		<CharPos Cursor="318" Value="s"/>
+		<CharPos Cursor="319" Value="u"/>
+		<CharPos Cursor="320" Value="m"/>
+		<CharPos Cursor="321" Value="m"/>
+		<CharPos Cursor="322" Value="i"/>
+		<CharPos Cursor="323" Value="t"/>
+		<CharPos Cursor="324" Value=" "/>
+		<CharPos Cursor="325" Value="a"/>
+		<CharPos Cursor="326" Value="p"/>
+		<CharPos Cursor="327" Value="p"/>
+		<CharPos Cursor="328" Value="e"/>
+		<CharPos Cursor="329" Value="a"/>
+		<CharPos Cursor="330" Value="r"/>
+		<CharPos Cursor="331" Value="e"/>
+		<CharPos Cursor="332" Value="d"/>
+		<CharPos Cursor="333" Value=" "/>
+		<CharPos Cursor="334" Value="t"/>
+		<CharPos Cursor="335" Value="o"/>
+		<CharPos Cursor="336" Value=" "/>
+		<CharPos Cursor="337" Value="u"/>
+		<CharPos Cursor="338" Value="n"/>
+		<CharPos Cursor="339" Value="r"/>
+		<CharPos Cursor="340" Value="a"/>
+		<CharPos Cursor="341" Value="v"/>
+		<CharPos Cursor="342" Value="e"/>
+		<CharPos Cursor="343" Value="l"/>
+		<CharPos Cursor="344" Value=":"/>
+		<CharPos Cursor="345" Value="&#10;"/>
+		<CharPos Cursor="346" Value="T"/>
+		<CharPos Cursor="347" Value="h"/>
+		<CharPos Cursor="348" Value="e"/>
+		<CharPos Cursor="349" Value=" "/>
+		<CharPos Cursor="350" Value="E"/>
+		<CharPos Cursor="351" Value="u"/>
+		<CharPos Cursor="352" Value="r"/>
+		<CharPos Cursor="353" Value="o"/>
+		<CharPos Cursor="354" Value="p"/>
+		<CharPos Cursor="355" Value="e"/>
+		<CharPos Cursor="356" Value="a"/>
+		<CharPos Cursor="357" Value="n"/>
+		<CharPos Cursor="358" Value=" "/>
+		<CharPos Cursor="359" Value="p"/>
+		<CharPos Cursor="360" Value="a"/>
+		<CharPos Cursor="361" Value="r"/>
+		<CharPos Cursor="362" Value="l"/>
+		<CharPos Cursor="363" Value="i"/>
+		<CharPos Cursor="364" Value="a"/>
+		<CharPos Cursor="365" Value="m"/>
+		<CharPos Cursor="366" Value="e"/>
+		<CharPos Cursor="367" Value="n"/>
+		<CharPos Cursor="368" Value="t"/>
+		<CharPos Cursor="369" Value="’"/>
+		<CharPos Cursor="370" Value="s"/>
+		<CharPos Cursor="371" Value=" "/>
+		<CharPos Cursor="372" Value="B"/>
+		<CharPos Cursor="373" Value="r"/>
+		<CharPos Cursor="374" Value="e"/>
+		<CharPos Cursor="375" Value="x"/>
+		<CharPos Cursor="376" Value="i"/>
+		<CharPos Cursor="377" Value="t"/>
+		<CharPos Cursor="378" Value=" "/>
+		<CharPos Cursor="379" Value="s"/>
+		<CharPos Cursor="380" Value="t"/>
+		<CharPos Cursor="381" Value="e"/>
+		<CharPos Cursor="382" Value="e"/>
+		<CharPos Cursor="383" Value="r"/>
+		<CharPos Cursor="384" Value="i"/>
+		<CharPos Cursor="385" Value="n"/>
+		<CharPos Cursor="386" Value="g"/>
+		<CharPos Cursor="387" Value=" "/>
+		<CharPos Cursor="388" Value="g"/>
+		<CharPos Cursor="389" Value="r"/>
+		<CharPos Cursor="390" Value="o"/>
+		<CharPos Cursor="391" Value="u"/>
+		<CharPos Cursor="392" Value="p"/>
+		<CharPos Cursor="393" Value=" "/>
+		<CharPos Cursor="394" Value="i"/>
+		<CharPos Cursor="395" Value="n"/>
+		<CharPos Cursor="396" Value="s"/>
+		<CharPos Cursor="397" Value="i"/>
+		<CharPos Cursor="398" Value="s"/>
+		<CharPos Cursor="399" Value="t"/>
+		<CharPos Cursor="400" Value="e"/>
+		<CharPos Cursor="401" Value="d"/>
+		<CharPos Cursor="402" Value=" "/>
+		<CharPos Cursor="403" Value="t"/>
+		<CharPos Cursor="404" Value="h"/>
+		<CharPos Cursor="405" Value="e"/>
+		<CharPos Cursor="406" Value=" "/>
+		<CharPos Cursor="407" Value="U"/>
+		<CharPos Cursor="408" Value="K"/>
+		<CharPos Cursor="409" Value=" "/>
+		<CharPos Cursor="410" Value="p"/>
+		<CharPos Cursor="411" Value="r"/>
+		<CharPos Cursor="412" Value="o"/>
+		<CharPos Cursor="413" Value="p"/>
+		<CharPos Cursor="414" Value="o"/>
+		<CharPos Cursor="415" Value="s"/>
+		<CharPos Cursor="416" Value="a"/>
+		<CharPos Cursor="417" Value="l"/>
+		<CharPos Cursor="418" Value="s"/>
+		<CharPos Cursor="419" Value=" "/>
+		<CharPos Cursor="420" Value="d"/>
+		<CharPos Cursor="421" Value="i"/>
+		<CharPos Cursor="422" Value="d"/>
+		<CharPos Cursor="423" Value=" "/>
+		<CharPos Cursor="424" Value="n"/>
+		<CharPos Cursor="425" Value="o"/>
+		<CharPos Cursor="426" Value="t"/>
+		<CharPos Cursor="427" Value=" "/>
+		<CharPos Cursor="428" Value="“"/>
+		<CharPos Cursor="429" Value="e"/>
+		<CharPos Cursor="430" Value="v"/>
+		<CharPos Cursor="431" Value="e"/>
+		<CharPos Cursor="432" Value="n"/>
+		<CharPos Cursor="433" Value=" "/>
+		<CharPos Cursor="434" Value="r"/>
+		<CharPos Cursor="435" Value="e"/>
+		<CharPos Cursor="436" Value="m"/>
+		<CharPos Cursor="437" Value="o"/>
+		<CharPos Cursor="438" Value="t"/>
+		<CharPos Cursor="439" Value="e"/>
+		<CharPos Cursor="440" Value="l"/>
+		<CharPos Cursor="441" Value="y"/>
+		<CharPos Cursor="442" Value="”"/>
+		<CharPos Cursor="443" Value=" "/>
+		<CharPos Cursor="444" Value="a"/>
+		<CharPos Cursor="445" Value="m"/>
+		<CharPos Cursor="446" Value="o"/>
+		<CharPos Cursor="447" Value="u"/>
+		<CharPos Cursor="448" Value="n"/>
+		<CharPos Cursor="449" Value="t"/>
+		<CharPos Cursor="450" Value=" "/>
+		<CharPos Cursor="451" Value="t"/>
+		<CharPos Cursor="452" Value="o"/>
+		<CharPos Cursor="453" Value=" "/>
+		<CharPos Cursor="454" Value="a"/>
+		<CharPos Cursor="455" Value="n"/>
+		<CharPos Cursor="456" Value=" "/>
+		<CharPos Cursor="457" Value="a"/>
+		<CharPos Cursor="458" Value="c"/>
+		<CharPos Cursor="459" Value="c"/>
+		<CharPos Cursor="460" Value="e"/>
+		<CharPos Cursor="461" Value="p"/>
+		<CharPos Cursor="462" Value="t"/>
+		<CharPos Cursor="463" Value="a"/>
+		<CharPos Cursor="464" Value="b"/>
+		<CharPos Cursor="465" Value="l"/>
+		<CharPos Cursor="466" Value="e"/>
+		<CharPos Cursor="467" Value=" "/>
+		<CharPos Cursor="468" Value="d"/>
+		<CharPos Cursor="469" Value="e"/>
+		<CharPos Cursor="470" Value="a"/>
+		<CharPos Cursor="471" Value="l"/>
+		<CharPos Cursor="472" Value=" "/>
+		<CharPos Cursor="473" Value="f"/>
+		<CharPos Cursor="474" Value="o"/>
+		<CharPos Cursor="475" Value="r"/>
+		<CharPos Cursor="476" Value=" "/>
+		<CharPos Cursor="477" Value="t"/>
+		<CharPos Cursor="478" Value="h"/>
+		<CharPos Cursor="479" Value="e"/>
+		<CharPos Cursor="480" Value=" "/>
+		<CharPos Cursor="481" Value="E"/>
+		<CharPos Cursor="482" Value="U"/>
+		<CharPos Cursor="483" Value="."/>
+		<CharPos Cursor="484" Value="&#10;"/>
+		<CharPos Cursor="485" Value="D"/>
+		<CharPos Cursor="486" Value="o"/>
+		<CharPos Cursor="487" Value="n"/>
+		<CharPos Cursor="488" Value="a"/>
+		<CharPos Cursor="489" Value="l"/>
+		<CharPos Cursor="490" Value="d"/>
+		<CharPos Cursor="491" Value=" "/>
+		<CharPos Cursor="492" Value="T"/>
+		<CharPos Cursor="493" Value="u"/>
+		<CharPos Cursor="494" Value="s"/>
+		<CharPos Cursor="495" Value="k"/>
+		<CharPos Cursor="496" Value=","/>
+		<CharPos Cursor="497" Value=" "/>
+		<CharPos Cursor="498" Value="t"/>
+		<CharPos Cursor="499" Value="h"/>
+		<CharPos Cursor="500" Value="e"/>
+		<CharPos Cursor="501" Value=" "/>
+		<CharPos Cursor="502" Value="E"/>
+		<CharPos Cursor="503" Value="u"/>
+		<CharPos Cursor="504" Value="r"/>
+		<CharPos Cursor="505" Value="o"/>
+		<CharPos Cursor="506" Value="p"/>
+		<CharPos Cursor="507" Value="e"/>
+		<CharPos Cursor="508" Value="a"/>
+		<CharPos Cursor="509" Value="n"/>
+		<CharPos Cursor="510" Value=" "/>
+		<CharPos Cursor="511" Value="c"/>
+		<CharPos Cursor="512" Value="o"/>
+		<CharPos Cursor="513" Value="u"/>
+		<CharPos Cursor="514" Value="n"/>
+		<CharPos Cursor="515" Value="c"/>
+		<CharPos Cursor="516" Value="i"/>
+		<CharPos Cursor="517" Value="l"/>
+		<CharPos Cursor="518" Value=" "/>
+		<CharPos Cursor="519" Value="p"/>
+		<CharPos Cursor="520" Value="r"/>
+		<CharPos Cursor="521" Value="e"/>
+		<CharPos Cursor="522" Value="s"/>
+		<CharPos Cursor="523" Value="i"/>
+		<CharPos Cursor="524" Value="d"/>
+		<CharPos Cursor="525" Value="e"/>
+		<CharPos Cursor="526" Value="n"/>
+		<CharPos Cursor="527" Value="t"/>
+		<CharPos Cursor="528" Value=","/>
+		<CharPos Cursor="529" Value=" "/>
+		<CharPos Cursor="530" Value="s"/>
+		<CharPos Cursor="531" Value="a"/>
+		<CharPos Cursor="532" Value="i"/>
+		<CharPos Cursor="533" Value="d"/>
+		<CharPos Cursor="534" Value=" "/>
+		<CharPos Cursor="535" Value="B"/>
+		<CharPos Cursor="536" Value="r"/>
+		<CharPos Cursor="537" Value="u"/>
+		<CharPos Cursor="538" Value="s"/>
+		<CharPos Cursor="539" Value="s"/>
+		<CharPos Cursor="540" Value="e"/>
+		<CharPos Cursor="541" Value="l"/>
+		<CharPos Cursor="542" Value="s"/>
+		<CharPos Cursor="543" Value=" "/>
+		<CharPos Cursor="544" Value="w"/>
+		<CharPos Cursor="545" Value="a"/>
+		<CharPos Cursor="546" Value="s"/>
+		<CharPos Cursor="547" Value=" "/>
+		<CharPos Cursor="548" Value="“"/>
+		<CharPos Cursor="549" Value="u"/>
+		<CharPos Cursor="550" Value="n"/>
+		<CharPos Cursor="551" Value="c"/>
+		<CharPos Cursor="552" Value="o"/>
+		<CharPos Cursor="553" Value="n"/>
+		<CharPos Cursor="554" Value="v"/>
+		<CharPos Cursor="555" Value="i"/>
+		<CharPos Cursor="556" Value="n"/>
+		<CharPos Cursor="557" Value="c"/>
+		<CharPos Cursor="558" Value="e"/>
+		<CharPos Cursor="559" Value="d"/>
+		<CharPos Cursor="560" Value="”"/>
+		<CharPos Cursor="561" Value=" "/>
+		<CharPos Cursor="562" Value="b"/>
+		<CharPos Cursor="563" Value="y"/>
+		<CharPos Cursor="564" Value=" "/>
+		<CharPos Cursor="565" Value="J"/>
+		<CharPos Cursor="566" Value="o"/>
+		<CharPos Cursor="567" Value="h"/>
+		<CharPos Cursor="568" Value="n"/>
+		<CharPos Cursor="569" Value="s"/>
+		<CharPos Cursor="570" Value="o"/>
+		<CharPos Cursor="571" Value="n"/>
+		<CharPos Cursor="572" Value="’"/>
+		<CharPos Cursor="573" Value="s"/>
+		<CharPos Cursor="574" Value=" "/>
+		<CharPos Cursor="575" Value="p"/>
+		<CharPos Cursor="576" Value="l"/>
+		<CharPos Cursor="577" Value="a"/>
+		<CharPos Cursor="578" Value="n"/>
+		<CharPos Cursor="579" Value="s"/>
+		<CharPos Cursor="580" Value=","/>
+		<CharPos Cursor="581" Value=" "/>
+		<CharPos Cursor="582" Value="a"/>
+		<CharPos Cursor="583" Value="n"/>
+		<CharPos Cursor="584" Value="d"/>
+		<CharPos Cursor="585" Value=" "/>
+		<CharPos Cursor="586" Value="o"/>
+		<CharPos Cursor="587" Value="f"/>
+		<CharPos Cursor="588" Value="f"/>
+		<CharPos Cursor="589" Value="e"/>
+		<CharPos Cursor="590" Value="r"/>
+		<CharPos Cursor="591" Value="e"/>
+		<CharPos Cursor="592" Value="d"/>
+		<CharPos Cursor="593" Value=" "/>
+		<CharPos Cursor="594" Value="t"/>
+		<CharPos Cursor="595" Value="h"/>
+		<CharPos Cursor="596" Value="e"/>
+		<CharPos Cursor="597" Value=" "/>
+		<CharPos Cursor="598" Value="E"/>
+		<CharPos Cursor="599" Value="U"/>
+		<CharPos Cursor="600" Value="’"/>
+		<CharPos Cursor="601" Value="s"/>
+		<CharPos Cursor="602" Value=" "/>
+		<CharPos Cursor="603" Value="f"/>
+		<CharPos Cursor="604" Value="u"/>
+		<CharPos Cursor="605" Value="l"/>
+		<CharPos Cursor="606" Value="l"/>
+		<CharPos Cursor="607" Value=" "/>
+		<CharPos Cursor="608" Value="s"/>
+		<CharPos Cursor="609" Value="o"/>
+		<CharPos Cursor="610" Value="l"/>
+		<CharPos Cursor="611" Value="i"/>
+		<CharPos Cursor="612" Value="d"/>
+		<CharPos Cursor="613" Value="a"/>
+		<CharPos Cursor="614" Value="r"/>
+		<CharPos Cursor="615" Value="i"/>
+		<CharPos Cursor="616" Value="t"/>
+		<CharPos Cursor="617" Value="y"/>
+		<CharPos Cursor="618" Value=" "/>
+		<CharPos Cursor="619" Value="w"/>
+		<CharPos Cursor="620" Value="i"/>
+		<CharPos Cursor="621" Value="t"/>
+		<CharPos Cursor="622" Value="h"/>
+		<CharPos Cursor="623" Value=" "/>
+		<CharPos Cursor="624" Value="I"/>
+		<CharPos Cursor="625" Value="r"/>
+		<CharPos Cursor="626" Value="e"/>
+		<CharPos Cursor="627" Value="l"/>
+		<CharPos Cursor="628" Value="a"/>
+		<CharPos Cursor="629" Value="n"/>
+		<CharPos Cursor="630" Value="d"/>
+		<CharPos Cursor="631" Value=" "/>
+		<CharPos Cursor="632" Value="a"/>
+		<CharPos Cursor="633" Value="m"/>
+		<CharPos Cursor="634" Value="i"/>
+		<CharPos Cursor="635" Value="d"/>
+		<CharPos Cursor="636" Value=" "/>
+		<CharPos Cursor="637" Value="c"/>
+		<CharPos Cursor="638" Value="l"/>
+		<CharPos Cursor="639" Value="a"/>
+		<CharPos Cursor="640" Value="i"/>
+		<CharPos Cursor="641" Value="m"/>
+		<CharPos Cursor="642" Value="s"/>
+		<CharPos Cursor="643" Value=" "/>
+		<CharPos Cursor="644" Value="t"/>
+		<CharPos Cursor="645" Value="h"/>
+		<CharPos Cursor="646" Value="a"/>
+		<CharPos Cursor="647" Value="t"/>
+		<CharPos Cursor="648" Value=" "/>
+		<CharPos Cursor="649" Value="D"/>
+		<CharPos Cursor="650" Value="u"/>
+		<CharPos Cursor="651" Value="b"/>
+		<CharPos Cursor="652" Value="l"/>
+		<CharPos Cursor="653" Value="i"/>
+		<CharPos Cursor="654" Value="n"/>
+		<CharPos Cursor="655" Value=" "/>
+		<CharPos Cursor="656" Value="w"/>
+		<CharPos Cursor="657" Value="a"/>
+		<CharPos Cursor="658" Value="s"/>
+		<CharPos Cursor="659" Value=" "/>
+		<CharPos Cursor="660" Value="u"/>
+		<CharPos Cursor="661" Value="n"/>
+		<CharPos Cursor="662" Value="d"/>
+		<CharPos Cursor="663" Value="e"/>
+		<CharPos Cursor="664" Value="r"/>
+		<CharPos Cursor="665" Value=" "/>
+		<CharPos Cursor="666" Value="p"/>
+		<CharPos Cursor="667" Value="r"/>
+		<CharPos Cursor="668" Value="e"/>
+		<CharPos Cursor="669" Value="s"/>
+		<CharPos Cursor="670" Value="s"/>
+		<CharPos Cursor="671" Value="u"/>
+		<CharPos Cursor="672" Value="r"/>
+		<CharPos Cursor="673" Value="e"/>
+		<CharPos Cursor="674" Value=" "/>
+		<CharPos Cursor="675" Value="t"/>
+		<CharPos Cursor="676" Value="o"/>
+		<CharPos Cursor="677" Value=" "/>
+		<CharPos Cursor="678" Value="c"/>
+		<CharPos Cursor="679" Value="o"/>
+		<CharPos Cursor="680" Value="m"/>
+		<CharPos Cursor="681" Value="p"/>
+		<CharPos Cursor="682" Value="r"/>
+		<CharPos Cursor="683" Value="o"/>
+		<CharPos Cursor="684" Value="m"/>
+		<CharPos Cursor="685" Value="i"/>
+		<CharPos Cursor="686" Value="s"/>
+		<CharPos Cursor="687" Value="e"/>
+		<CharPos Cursor="688" Value="."/>
+		<CharPos Cursor="689" Value="&#10;"/>
+		<CharPos Cursor="690" Value="T"/>
+		<CharPos Cursor="691" Value="h"/>
+		<CharPos Cursor="692" Value="e"/>
+		<CharPos Cursor="693" Value=" "/>
+		<CharPos Cursor="694" Value="E"/>
+		<CharPos Cursor="695" Value="U"/>
+		<CharPos Cursor="696" Value=" "/>
+		<CharPos Cursor="697" Value="a"/>
+		<CharPos Cursor="698" Value="g"/>
+		<CharPos Cursor="699" Value="r"/>
+		<CharPos Cursor="700" Value="e"/>
+		<CharPos Cursor="701" Value="e"/>
+		<CharPos Cursor="702" Value="d"/>
+		<CharPos Cursor="703" Value=" "/>
+		<CharPos Cursor="704" Value="t"/>
+		<CharPos Cursor="705" Value="o"/>
+		<CharPos Cursor="706" Value=" "/>
+		<CharPos Cursor="707" Value="s"/>
+		<CharPos Cursor="708" Value="e"/>
+		<CharPos Cursor="709" Value="t"/>
+		<CharPos Cursor="710" Value=" "/>
+		<CharPos Cursor="711" Value="D"/>
+		<CharPos Cursor="712" Value="a"/>
+		<CharPos Cursor="713" Value="v"/>
+		<CharPos Cursor="714" Value="i"/>
+		<CharPos Cursor="715" Value="d"/>
+		<CharPos Cursor="716" Value=" "/>
+		<CharPos Cursor="717" Value="F"/>
+		<CharPos Cursor="718" Value="r"/>
+		<CharPos Cursor="719" Value="o"/>
+		<CharPos Cursor="720" Value="s"/>
+		<CharPos Cursor="721" Value="t"/>
+		<CharPos Cursor="722" Value=","/>
+		<CharPos Cursor="723" Value=" "/>
+		<CharPos Cursor="724" Value="t"/>
+		<CharPos Cursor="725" Value="h"/>
+		<CharPos Cursor="726" Value="e"/>
+		<CharPos Cursor="727" Value=" "/>
+		<CharPos Cursor="728" Value="p"/>
+		<CharPos Cursor="729" Value="r"/>
+		<CharPos Cursor="730" Value="i"/>
+		<CharPos Cursor="731" Value="m"/>
+		<CharPos Cursor="732" Value="e"/>
+		<CharPos Cursor="733" Value=" "/>
+		<CharPos Cursor="734" Value="m"/>
+		<CharPos Cursor="735" Value="i"/>
+		<CharPos Cursor="736" Value="n"/>
+		<CharPos Cursor="737" Value="i"/>
+		<CharPos Cursor="738" Value="s"/>
+		<CharPos Cursor="739" Value="t"/>
+		<CharPos Cursor="740" Value="e"/>
+		<CharPos Cursor="741" Value="r"/>
+		<CharPos Cursor="742" Value="’"/>
+		<CharPos Cursor="743" Value="s"/>
+		<CharPos Cursor="744" Value=" "/>
+		<CharPos Cursor="745" Value="c"/>
+		<CharPos Cursor="746" Value="h"/>
+		<CharPos Cursor="747" Value="i"/>
+		<CharPos Cursor="748" Value="e"/>
+		<CharPos Cursor="749" Value="f"/>
+		<CharPos Cursor="750" Value=" "/>
+		<CharPos Cursor="751" Value="n"/>
+		<CharPos Cursor="752" Value="e"/>
+		<CharPos Cursor="753" Value="g"/>
+		<CharPos Cursor="754" Value="o"/>
+		<CharPos Cursor="755" Value="t"/>
+		<CharPos Cursor="756" Value="i"/>
+		<CharPos Cursor="757" Value="a"/>
+		<CharPos Cursor="758" Value="t"/>
+		<CharPos Cursor="759" Value="o"/>
+		<CharPos Cursor="760" Value="r"/>
+		<CharPos Cursor="761" Value=","/>
+		<CharPos Cursor="762" Value=" "/>
+		<CharPos Cursor="763" Value="a"/>
+		<CharPos Cursor="764" Value=" "/>
+		<CharPos Cursor="765" Value="d"/>
+		<CharPos Cursor="766" Value="e"/>
+		<CharPos Cursor="767" Value="a"/>
+		<CharPos Cursor="768" Value="d"/>
+		<CharPos Cursor="769" Value="l"/>
+		<CharPos Cursor="770" Value="i"/>
+		<CharPos Cursor="771" Value="n"/>
+		<CharPos Cursor="772" Value="e"/>
+		<CharPos Cursor="773" Value=" "/>
+		<CharPos Cursor="774" Value="o"/>
+		<CharPos Cursor="775" Value="f"/>
+		<CharPos Cursor="776" Value=" "/>
+		<CharPos Cursor="777" Value="o"/>
+		<CharPos Cursor="778" Value="n"/>
+		<CharPos Cursor="779" Value="e"/>
+		<CharPos Cursor="780" Value=" "/>
+		<CharPos Cursor="781" Value="w"/>
+		<CharPos Cursor="782" Value="e"/>
+		<CharPos Cursor="783" Value="e"/>
+		<CharPos Cursor="784" Value="k"/>
+		<CharPos Cursor="785" Value=" "/>
+		<CharPos Cursor="786" Value="t"/>
+		<CharPos Cursor="787" Value="o"/>
+		<CharPos Cursor="788" Value=" "/>
+		<CharPos Cursor="789" Value="o"/>
+		<CharPos Cursor="790" Value="f"/>
+		<CharPos Cursor="791" Value="f"/>
+		<CharPos Cursor="792" Value="e"/>
+		<CharPos Cursor="793" Value="r"/>
+		<CharPos Cursor="794" Value=" "/>
+		<CharPos Cursor="795" Value="f"/>
+		<CharPos Cursor="796" Value="r"/>
+		<CharPos Cursor="797" Value="e"/>
+		<CharPos Cursor="798" Value="s"/>
+		<CharPos Cursor="799" Value="h"/>
+		<CharPos Cursor="800" Value=" "/>
+		<CharPos Cursor="801" Value="s"/>
+		<CharPos Cursor="802" Value="o"/>
+		<CharPos Cursor="803" Value="l"/>
+		<CharPos Cursor="804" Value="u"/>
+		<CharPos Cursor="805" Value="t"/>
+		<CharPos Cursor="806" Value="i"/>
+		<CharPos Cursor="807" Value="o"/>
+		<CharPos Cursor="808" Value="n"/>
+		<CharPos Cursor="809" Value="s"/>
+		<CharPos Cursor="810" Value=" "/>
+		<CharPos Cursor="811" Value="o"/>
+		<CharPos Cursor="812" Value="n"/>
+		<CharPos Cursor="813" Value=" "/>
+		<CharPos Cursor="814" Value="t"/>
+		<CharPos Cursor="815" Value="h"/>
+		<CharPos Cursor="816" Value="e"/>
+		<CharPos Cursor="817" Value=" "/>
+		<CharPos Cursor="818" Value="k"/>
+		<CharPos Cursor="819" Value="e"/>
+		<CharPos Cursor="820" Value="y"/>
+		<CharPos Cursor="821" Value=" "/>
+		<CharPos Cursor="822" Value="s"/>
+		<CharPos Cursor="823" Value="t"/>
+		<CharPos Cursor="824" Value="i"/>
+		<CharPos Cursor="825" Value="c"/>
+		<CharPos Cursor="826" Value="k"/>
+		<CharPos Cursor="827" Value="i"/>
+		<CharPos Cursor="828" Value="n"/>
+		<CharPos Cursor="829" Value="g"/>
+		<CharPos Cursor="830" Value=" "/>
+		<CharPos Cursor="831" Value="p"/>
+		<CharPos Cursor="832" Value="o"/>
+		<CharPos Cursor="833" Value="i"/>
+		<CharPos Cursor="834" Value="n"/>
+		<CharPos Cursor="835" Value="t"/>
+		<CharPos Cursor="836" Value="s"/>
+		<CharPos Cursor="837" Value="."/>
+		<CharPos Cursor="838" Value="&#10;"/>
+		<CharPos Cursor="839" Value="A"/>
+		<CharPos Cursor="840" Value="r"/>
+		<CharPos Cursor="841" Value="l"/>
+		<CharPos Cursor="842" Value="e"/>
+		<CharPos Cursor="843" Value="n"/>
+		<CharPos Cursor="844" Value="e"/>
+		<CharPos Cursor="845" Value=" "/>
+		<CharPos Cursor="846" Value="F"/>
+		<CharPos Cursor="847" Value="o"/>
+		<CharPos Cursor="848" Value="s"/>
+		<CharPos Cursor="849" Value="t"/>
+		<CharPos Cursor="850" Value="e"/>
+		<CharPos Cursor="851" Value="r"/>
+		<CharPos Cursor="852" Value=","/>
+		<CharPos Cursor="853" Value=" "/>
+		<CharPos Cursor="854" Value="l"/>
+		<CharPos Cursor="855" Value="e"/>
+		<CharPos Cursor="856" Value="a"/>
+		<CharPos Cursor="857" Value="d"/>
+		<CharPos Cursor="858" Value="e"/>
+		<CharPos Cursor="859" Value="r"/>
+		<CharPos Cursor="860" Value=" "/>
+		<CharPos Cursor="861" Value="o"/>
+		<CharPos Cursor="862" Value="f"/>
+		<CharPos Cursor="863" Value=" "/>
+		<CharPos Cursor="864" Value="t"/>
+		<CharPos Cursor="865" Value="h"/>
+		<CharPos Cursor="866" Value="e"/>
+		<CharPos Cursor="867" Value=" "/>
+		<CharPos Cursor="868" Value="D"/>
+		<CharPos Cursor="869" Value="e"/>
+		<CharPos Cursor="870" Value="m"/>
+		<CharPos Cursor="871" Value="o"/>
+		<CharPos Cursor="872" Value="c"/>
+		<CharPos Cursor="873" Value="r"/>
+		<CharPos Cursor="874" Value="a"/>
+		<CharPos Cursor="875" Value="t"/>
+		<CharPos Cursor="876" Value="i"/>
+		<CharPos Cursor="877" Value="c"/>
+		<CharPos Cursor="878" Value=" "/>
+		<CharPos Cursor="879" Value="U"/>
+		<CharPos Cursor="880" Value="n"/>
+		<CharPos Cursor="881" Value="i"/>
+		<CharPos Cursor="882" Value="o"/>
+		<CharPos Cursor="883" Value="n"/>
+		<CharPos Cursor="884" Value="i"/>
+		<CharPos Cursor="885" Value="s"/>
+		<CharPos Cursor="886" Value="t"/>
+		<CharPos Cursor="887" Value=" "/>
+		<CharPos Cursor="888" Value="p"/>
+		<CharPos Cursor="889" Value="a"/>
+		<CharPos Cursor="890" Value="r"/>
+		<CharPos Cursor="891" Value="t"/>
+		<CharPos Cursor="892" Value="y"/>
+		<CharPos Cursor="893" Value=","/>
+		<CharPos Cursor="894" Value=" "/>
+		<CharPos Cursor="895" Value="w"/>
+		<CharPos Cursor="896" Value="h"/>
+		<CharPos Cursor="897" Value="i"/>
+		<CharPos Cursor="898" Value="c"/>
+		<CharPos Cursor="899" Value="h"/>
+		<CharPos Cursor="900" Value=" "/>
+		<CharPos Cursor="901" Value="h"/>
+		<CharPos Cursor="902" Value="a"/>
+		<CharPos Cursor="903" Value="s"/>
+		<CharPos Cursor="904" Value=" "/>
+		<CharPos Cursor="905" Value="g"/>
+		<CharPos Cursor="906" Value="i"/>
+		<CharPos Cursor="907" Value="v"/>
+		<CharPos Cursor="908" Value="e"/>
+		<CharPos Cursor="909" Value="n"/>
+		<CharPos Cursor="910" Value=" "/>
+		<CharPos Cursor="911" Value="i"/>
+		<CharPos Cursor="912" Value="t"/>
+		<CharPos Cursor="913" Value="s"/>
+		<CharPos Cursor="914" Value=" "/>
+		<CharPos Cursor="915" Value="b"/>
+		<CharPos Cursor="916" Value="a"/>
+		<CharPos Cursor="917" Value="c"/>
+		<CharPos Cursor="918" Value="k"/>
+		<CharPos Cursor="919" Value="i"/>
+		<CharPos Cursor="920" Value="n"/>
+		<CharPos Cursor="921" Value="g"/>
+		<CharPos Cursor="922" Value=" "/>
+		<CharPos Cursor="923" Value="t"/>
+		<CharPos Cursor="924" Value="o"/>
+		<CharPos Cursor="925" Value=" "/>
+		<CharPos Cursor="926" Value="J"/>
+		<CharPos Cursor="927" Value="o"/>
+		<CharPos Cursor="928" Value="h"/>
+		<CharPos Cursor="929" Value="n"/>
+		<CharPos Cursor="930" Value="s"/>
+		<CharPos Cursor="931" Value="o"/>
+		<CharPos Cursor="932" Value="n"/>
+		<CharPos Cursor="933" Value="’"/>
+		<CharPos Cursor="934" Value="s"/>
+		<CharPos Cursor="935" Value=" "/>
+		<CharPos Cursor="936" Value="p"/>
+		<CharPos Cursor="937" Value="l"/>
+		<CharPos Cursor="938" Value="a"/>
+		<CharPos Cursor="939" Value="n"/>
+		<CharPos Cursor="940" Value="s"/>
+		<CharPos Cursor="941" Value=","/>
+		<CharPos Cursor="942" Value=" "/>
+		<CharPos Cursor="943" Value="i"/>
+		<CharPos Cursor="944" Value="n"/>
+		<CharPos Cursor="945" Value="s"/>
+		<CharPos Cursor="946" Value="i"/>
+		<CharPos Cursor="947" Value="s"/>
+		<CharPos Cursor="948" Value="t"/>
+		<CharPos Cursor="949" Value="e"/>
+		<CharPos Cursor="950" Value="d"/>
+		<CharPos Cursor="951" Value=" "/>
+		<CharPos Cursor="952" Value="t"/>
+		<CharPos Cursor="953" Value="h"/>
+		<CharPos Cursor="954" Value="a"/>
+		<CharPos Cursor="955" Value="t"/>
+		<CharPos Cursor="956" Value=" "/>
+		<CharPos Cursor="957" Value="t"/>
+		<CharPos Cursor="958" Value="h"/>
+		<CharPos Cursor="959" Value="e"/>
+		<CharPos Cursor="960" Value=" "/>
+		<CharPos Cursor="961" Value="I"/>
+		<CharPos Cursor="962" Value="r"/>
+		<CharPos Cursor="963" Value="i"/>
+		<CharPos Cursor="964" Value="s"/>
+		<CharPos Cursor="965" Value="h"/>
+		<CharPos Cursor="966" Value=" "/>
+		<CharPos Cursor="967" Value="t"/>
+		<CharPos Cursor="968" Value="a"/>
+		<CharPos Cursor="969" Value="o"/>
+		<CharPos Cursor="970" Value="i"/>
+		<CharPos Cursor="971" Value="s"/>
+		<CharPos Cursor="972" Value="e"/>
+		<CharPos Cursor="973" Value="a"/>
+		<CharPos Cursor="974" Value="c"/>
+		<CharPos Cursor="975" Value="h"/>
+		<CharPos Cursor="976" Value=","/>
+		<CharPos Cursor="977" Value=" "/>
+		<CharPos Cursor="978" Value="L"/>
+		<CharPos Cursor="979" Value="e"/>
+		<CharPos Cursor="980" Value="o"/>
+		<CharPos Cursor="981" Value=" "/>
+		<CharPos Cursor="982" Value="V"/>
+		<CharPos Cursor="983" Value="a"/>
+		<CharPos Cursor="984" Value="r"/>
+		<CharPos Cursor="985" Value="a"/>
+		<CharPos Cursor="986" Value="d"/>
+		<CharPos Cursor="987" Value="k"/>
+		<CharPos Cursor="988" Value="a"/>
+		<CharPos Cursor="989" Value="r"/>
+		<CharPos Cursor="990" Value=","/>
+		<CharPos Cursor="991" Value=" "/>
+		<CharPos Cursor="992" Value="w"/>
+		<CharPos Cursor="993" Value="o"/>
+		<CharPos Cursor="994" Value="u"/>
+		<CharPos Cursor="995" Value="l"/>
+		<CharPos Cursor="996" Value="d"/>
+		<CharPos Cursor="997" Value=" "/>
+		<CharPos Cursor="998" Value="“"/>
+		<CharPos Cursor="999" Value="g"/>
+		<CharPos Cursor="1000" Value="o"/>
+		<CharPos Cursor="1001" Value=" "/>
+		<CharPos Cursor="1002" Value="d"/>
+		<CharPos Cursor="1003" Value="o"/>
+		<CharPos Cursor="1004" Value="w"/>
+		<CharPos Cursor="1005" Value="n"/>
+		<CharPos Cursor="1006" Value=" "/>
+		<CharPos Cursor="1007" Value="i"/>
+		<CharPos Cursor="1008" Value="n"/>
+		<CharPos Cursor="1009" Value=" "/>
+		<CharPos Cursor="1010" Value="h"/>
+		<CharPos Cursor="1011" Value="i"/>
+		<CharPos Cursor="1012" Value="s"/>
+		<CharPos Cursor="1013" Value="t"/>
+		<CharPos Cursor="1014" Value="o"/>
+		<CharPos Cursor="1015" Value="r"/>
+		<CharPos Cursor="1016" Value="y"/>
+		<CharPos Cursor="1017" Value=" "/>
+		<CharPos Cursor="1018" Value="a"/>
+		<CharPos Cursor="1019" Value="s"/>
+		<CharPos Cursor="1020" Value=" "/>
+		<CharPos Cursor="1021" Value="t"/>
+		<CharPos Cursor="1022" Value="h"/>
+		<CharPos Cursor="1023" Value="e"/>
+		<CharPos Cursor="1024" Value=" "/>
+		<CharPos Cursor="1025" Value="m"/>
+		<CharPos Cursor="1026" Value="a"/>
+		<CharPos Cursor="1027" Value="n"/>
+		<CharPos Cursor="1028" Value=" "/>
+		<CharPos Cursor="1029" Value="t"/>
+		<CharPos Cursor="1030" Value="h"/>
+		<CharPos Cursor="1031" Value="a"/>
+		<CharPos Cursor="1032" Value="t"/>
+		<CharPos Cursor="1033" Value=" "/>
+		<CharPos Cursor="1034" Value="i"/>
+		<CharPos Cursor="1035" Value="n"/>
+		<CharPos Cursor="1036" Value="s"/>
+		<CharPos Cursor="1037" Value="t"/>
+		<CharPos Cursor="1038" Value="i"/>
+		<CharPos Cursor="1039" Value="t"/>
+		<CharPos Cursor="1040" Value="u"/>
+		<CharPos Cursor="1041" Value="t"/>
+		<CharPos Cursor="1042" Value="e"/>
+		<CharPos Cursor="1043" Value="d"/>
+		<CharPos Cursor="1044" Value=" "/>
+		<CharPos Cursor="1045" Value="a"/>
+		<CharPos Cursor="1046" Value=" "/>
+		<CharPos Cursor="1047" Value="h"/>
+		<CharPos Cursor="1048" Value="a"/>
+		<CharPos Cursor="1049" Value="r"/>
+		<CharPos Cursor="1050" Value="d"/>
+		<CharPos Cursor="1051" Value=" "/>
+		<CharPos Cursor="1052" Value="b"/>
+		<CharPos Cursor="1053" Value="o"/>
+		<CharPos Cursor="1054" Value="r"/>
+		<CharPos Cursor="1055" Value="d"/>
+		<CharPos Cursor="1056" Value="e"/>
+		<CharPos Cursor="1057" Value="r"/>
+		<CharPos Cursor="1058" Value=" "/>
+		<CharPos Cursor="1059" Value="o"/>
+		<CharPos Cursor="1060" Value="n"/>
+		<CharPos Cursor="1061" Value=" "/>
+		<CharPos Cursor="1062" Value="t"/>
+		<CharPos Cursor="1063" Value="h"/>
+		<CharPos Cursor="1064" Value="e"/>
+		<CharPos Cursor="1065" Value=" "/>
+		<CharPos Cursor="1066" Value="i"/>
+		<CharPos Cursor="1067" Value="s"/>
+		<CharPos Cursor="1068" Value="l"/>
+		<CharPos Cursor="1069" Value="a"/>
+		<CharPos Cursor="1070" Value="n"/>
+		<CharPos Cursor="1071" Value="d"/>
+		<CharPos Cursor="1072" Value=" "/>
+		<CharPos Cursor="1073" Value="o"/>
+		<CharPos Cursor="1074" Value="f"/>
+		<CharPos Cursor="1075" Value=" "/>
+		<CharPos Cursor="1076" Value="I"/>
+		<CharPos Cursor="1077" Value="r"/>
+		<CharPos Cursor="1078" Value="e"/>
+		<CharPos Cursor="1079" Value="l"/>
+		<CharPos Cursor="1080" Value="a"/>
+		<CharPos Cursor="1081" Value="n"/>
+		<CharPos Cursor="1082" Value="d"/>
+		<CharPos Cursor="1083" Value="”"/>
+		<CharPos Cursor="1084" Value=" "/>
+		<CharPos Cursor="1085" Value="i"/>
+		<CharPos Cursor="1086" Value="f"/>
+		<CharPos Cursor="1087" Value=" "/>
+		<CharPos Cursor="1088" Value="h"/>
+		<CharPos Cursor="1089" Value="e"/>
+		<CharPos Cursor="1090" Value=" "/>
+		<CharPos Cursor="1091" Value="f"/>
+		<CharPos Cursor="1092" Value="a"/>
+		<CharPos Cursor="1093" Value="i"/>
+		<CharPos Cursor="1094" Value="l"/>
+		<CharPos Cursor="1095" Value="e"/>
+		<CharPos Cursor="1096" Value="d"/>
+		<CharPos Cursor="1097" Value=" "/>
+		<CharPos Cursor="1098" Value="t"/>
+		<CharPos Cursor="1099" Value="o"/>
+		<CharPos Cursor="1100" Value=" "/>
+		<CharPos Cursor="1101" Value="s"/>
+		<CharPos Cursor="1102" Value="w"/>
+		<CharPos Cursor="1103" Value="a"/>
+		<CharPos Cursor="1104" Value="l"/>
+		<CharPos Cursor="1105" Value="l"/>
+		<CharPos Cursor="1106" Value="o"/>
+		<CharPos Cursor="1107" Value="w"/>
+		<CharPos Cursor="1108" Value=" "/>
+		<CharPos Cursor="1109" Value="t"/>
+		<CharPos Cursor="1110" Value="h"/>
+		<CharPos Cursor="1111" Value="e"/>
+		<CharPos Cursor="1112" Value=" "/>
+		<CharPos Cursor="1113" Value="U"/>
+		<CharPos Cursor="1114" Value="K"/>
+		<CharPos Cursor="1115" Value="’"/>
+		<CharPos Cursor="1116" Value="s"/>
+		<CharPos Cursor="1117" Value=" "/>
+		<CharPos Cursor="1118" Value="p"/>
+		<CharPos Cursor="1119" Value="r"/>
+		<CharPos Cursor="1120" Value="o"/>
+		<CharPos Cursor="1121" Value="p"/>
+		<CharPos Cursor="1122" Value="o"/>
+		<CharPos Cursor="1123" Value="s"/>
+		<CharPos Cursor="1124" Value="a"/>
+		<CharPos Cursor="1125" Value="l"/>
+		<CharPos Cursor="1126" Value="s"/>
+		<CharPos Cursor="1127" Value="."/>
+		<CharPos Cursor="1128" Value="&#10;"/>
+		<CharPos Cursor="1129" Value="J"/>
+		<CharPos Cursor="1130" Value="o"/>
+		<CharPos Cursor="1131" Value="h"/>
+		<CharPos Cursor="1132" Value="n"/>
+		<CharPos Cursor="1133" Value="s"/>
+		<CharPos Cursor="1134" Value="o"/>
+		<CharPos Cursor="1135" Value="n"/>
+		<CharPos Cursor="1136" Value="’"/>
+		<CharPos Cursor="1137" Value="s"/>
+		<CharPos Cursor="1138" Value=" "/>
+		<CharPos Cursor="1139" Value="p"/>
+		<CharPos Cursor="1140" Value="l"/>
+		<CharPos Cursor="1141" Value="a"/>
+		<CharPos Cursor="1142" Value="n"/>
+		<CharPos Cursor="1143" Value="s"/>
+		<CharPos Cursor="1144" Value=" "/>
+		<CharPos Cursor="1145" Value="f"/>
+		<CharPos Cursor="1146" Value="o"/>
+		<CharPos Cursor="1147" Value="r"/>
+		<CharPos Cursor="1148" Value=" "/>
+		<CharPos Cursor="1149" Value="a"/>
+		<CharPos Cursor="1150" Value=" "/>
+		<CharPos Cursor="1151" Value="w"/>
+		<CharPos Cursor="1152" Value="h"/>
+		<CharPos Cursor="1153" Value="i"/>
+		<CharPos Cursor="1154" Value="s"/>
+		<CharPos Cursor="1155" Value="t"/>
+		<CharPos Cursor="1156" Value="l"/>
+		<CharPos Cursor="1157" Value="e"/>
+		<CharPos Cursor="1158" Value="-"/>
+		<CharPos Cursor="1159" Value="s"/>
+		<CharPos Cursor="1160" Value="t"/>
+		<CharPos Cursor="1161" Value="o"/>
+		<CharPos Cursor="1162" Value="p"/>
+		<CharPos Cursor="1163" Value=" "/>
+		<CharPos Cursor="1164" Value="t"/>
+		<CharPos Cursor="1165" Value="o"/>
+		<CharPos Cursor="1166" Value="u"/>
+		<CharPos Cursor="1167" Value="r"/>
+		<CharPos Cursor="1168" Value=" "/>
+		<CharPos Cursor="1169" Value="o"/>
+		<CharPos Cursor="1170" Value="f"/>
+		<CharPos Cursor="1171" Value=" "/>
+		<CharPos Cursor="1172" Value="E"/>
+		<CharPos Cursor="1173" Value="U"/>
+		<CharPos Cursor="1174" Value=" "/>
+		<CharPos Cursor="1175" Value="c"/>
+		<CharPos Cursor="1176" Value="a"/>
+		<CharPos Cursor="1177" Value="p"/>
+		<CharPos Cursor="1178" Value="i"/>
+		<CharPos Cursor="1179" Value="t"/>
+		<CharPos Cursor="1180" Value="a"/>
+		<CharPos Cursor="1181" Value="l"/>
+		<CharPos Cursor="1182" Value="s"/>
+		<CharPos Cursor="1183" Value=" "/>
+		<CharPos Cursor="1184" Value="w"/>
+		<CharPos Cursor="1185" Value="a"/>
+		<CharPos Cursor="1186" Value="s"/>
+		<CharPos Cursor="1187" Value=" "/>
+		<CharPos Cursor="1188" Value="p"/>
+		<CharPos Cursor="1189" Value="u"/>
+		<CharPos Cursor="1190" Value="t"/>
+		<CharPos Cursor="1191" Value=" "/>
+		<CharPos Cursor="1192" Value="i"/>
+		<CharPos Cursor="1193" Value="n"/>
+		<CharPos Cursor="1194" Value=" "/>
+		<CharPos Cursor="1195" Value="p"/>
+		<CharPos Cursor="1196" Value="e"/>
+		<CharPos Cursor="1197" Value="r"/>
+		<CharPos Cursor="1198" Value="i"/>
+		<CharPos Cursor="1199" Value="l"/>
+		<CharPos Cursor="1200" Value=" "/>
+		<CharPos Cursor="1201" Value="a"/>
+		<CharPos Cursor="1202" Value="f"/>
+		<CharPos Cursor="1203" Value="t"/>
+		<CharPos Cursor="1204" Value="e"/>
+		<CharPos Cursor="1205" Value="r"/>
+		<CharPos Cursor="1206" Value=" "/>
+		<CharPos Cursor="1207" Value="f"/>
+		<CharPos Cursor="1208" Value="a"/>
+		<CharPos Cursor="1209" Value="i"/>
+		<CharPos Cursor="1210" Value="l"/>
+		<CharPos Cursor="1211" Value="i"/>
+		<CharPos Cursor="1212" Value="n"/>
+		<CharPos Cursor="1213" Value="g"/>
+		<CharPos Cursor="1214" Value=" "/>
+		<CharPos Cursor="1215" Value="t"/>
+		<CharPos Cursor="1216" Value="o"/>
+		<CharPos Cursor="1217" Value=" "/>
+		<CharPos Cursor="1218" Value="f"/>
+		<CharPos Cursor="1219" Value="i"/>
+		<CharPos Cursor="1220" Value="x"/>
+		<CharPos Cursor="1221" Value=" "/>
+		<CharPos Cursor="1222" Value="m"/>
+		<CharPos Cursor="1223" Value="e"/>
+		<CharPos Cursor="1224" Value="e"/>
+		<CharPos Cursor="1225" Value="t"/>
+		<CharPos Cursor="1226" Value="i"/>
+		<CharPos Cursor="1227" Value="n"/>
+		<CharPos Cursor="1228" Value="g"/>
+		<CharPos Cursor="1229" Value="s"/>
+		<CharPos Cursor="1230" Value=" "/>
+		<CharPos Cursor="1231" Value="w"/>
+		<CharPos Cursor="1232" Value="i"/>
+		<CharPos Cursor="1233" Value="t"/>
+		<CharPos Cursor="1234" Value="h"/>
+		<CharPos Cursor="1235" Value=" "/>
+		<CharPos Cursor="1236" Value="b"/>
+		<CharPos Cursor="1237" Value="o"/>
+		<CharPos Cursor="1238" Value="t"/>
+		<CharPos Cursor="1239" Value="h"/>
+		<CharPos Cursor="1240" Value=" "/>
+		<CharPos Cursor="1241" Value="t"/>
+		<CharPos Cursor="1242" Value="h"/>
+		<CharPos Cursor="1243" Value="e"/>
+		<CharPos Cursor="1244" Value=" "/>
+		<CharPos Cursor="1245" Value="G"/>
+		<CharPos Cursor="1246" Value="e"/>
+		<CharPos Cursor="1247" Value="r"/>
+		<CharPos Cursor="1248" Value="m"/>
+		<CharPos Cursor="1249" Value="a"/>
+		<CharPos Cursor="1250" Value="n"/>
+		<CharPos Cursor="1251" Value=" "/>
+		<CharPos Cursor="1252" Value="c"/>
+		<CharPos Cursor="1253" Value="h"/>
+		<CharPos Cursor="1254" Value="a"/>
+		<CharPos Cursor="1255" Value="n"/>
+		<CharPos Cursor="1256" Value="c"/>
+		<CharPos Cursor="1257" Value="e"/>
+		<CharPos Cursor="1258" Value="l"/>
+		<CharPos Cursor="1259" Value="l"/>
+		<CharPos Cursor="1260" Value="o"/>
+		<CharPos Cursor="1261" Value="r"/>
+		<CharPos Cursor="1262" Value=","/>
+		<CharPos Cursor="1263" Value=" "/>
+		<CharPos Cursor="1264" Value="A"/>
+		<CharPos Cursor="1265" Value="n"/>
+		<CharPos Cursor="1266" Value="g"/>
+		<CharPos Cursor="1267" Value="e"/>
+		<CharPos Cursor="1268" Value="l"/>
+		<CharPos Cursor="1269" Value="a"/>
+		<CharPos Cursor="1270" Value=" "/>
+		<CharPos Cursor="1271" Value="M"/>
+		<CharPos Cursor="1272" Value="e"/>
+		<CharPos Cursor="1273" Value="r"/>
+		<CharPos Cursor="1274" Value="k"/>
+		<CharPos Cursor="1275" Value="e"/>
+		<CharPos Cursor="1276" Value="l"/>
+		<CharPos Cursor="1277" Value=","/>
+		<CharPos Cursor="1278" Value=" "/>
+		<CharPos Cursor="1279" Value="a"/>
+		<CharPos Cursor="1280" Value="n"/>
+		<CharPos Cursor="1281" Value="d"/>
+		<CharPos Cursor="1282" Value=" "/>
+		<CharPos Cursor="1283" Value="E"/>
+		<CharPos Cursor="1284" Value="m"/>
+		<CharPos Cursor="1285" Value="m"/>
+		<CharPos Cursor="1286" Value="a"/>
+		<CharPos Cursor="1287" Value="n"/>
+		<CharPos Cursor="1288" Value="u"/>
+		<CharPos Cursor="1289" Value="e"/>
+		<CharPos Cursor="1290" Value="l"/>
+		<CharPos Cursor="1291" Value=" "/>
+		<CharPos Cursor="1292" Value="M"/>
+		<CharPos Cursor="1293" Value="a"/>
+		<CharPos Cursor="1294" Value="c"/>
+		<CharPos Cursor="1295" Value="r"/>
+		<CharPos Cursor="1296" Value="o"/>
+		<CharPos Cursor="1297" Value="n"/>
+		<CharPos Cursor="1298" Value=","/>
+		<CharPos Cursor="1299" Value=" "/>
+		<CharPos Cursor="1300" Value="t"/>
+		<CharPos Cursor="1301" Value="h"/>
+		<CharPos Cursor="1302" Value="e"/>
+		<CharPos Cursor="1303" Value=" "/>
+		<CharPos Cursor="1304" Value="p"/>
+		<CharPos Cursor="1305" Value="r"/>
+		<CharPos Cursor="1306" Value="e"/>
+		<CharPos Cursor="1307" Value="s"/>
+		<CharPos Cursor="1308" Value="i"/>
+		<CharPos Cursor="1309" Value="d"/>
+		<CharPos Cursor="1310" Value="e"/>
+		<CharPos Cursor="1311" Value="n"/>
+		<CharPos Cursor="1312" Value="t"/>
+		<CharPos Cursor="1313" Value=" "/>
+		<CharPos Cursor="1314" Value="o"/>
+		<CharPos Cursor="1315" Value="f"/>
+		<CharPos Cursor="1316" Value=" "/>
+		<CharPos Cursor="1317" Value="F"/>
+		<CharPos Cursor="1318" Value="r"/>
+		<CharPos Cursor="1319" Value="a"/>
+		<CharPos Cursor="1320" Value="n"/>
+		<CharPos Cursor="1321" Value="c"/>
+		<CharPos Cursor="1322" Value="e"/>
+		<CharPos Cursor="1323" Value=","/>
+		<CharPos Cursor="1324" Value=" "/>
+		<CharPos Cursor="1325" Value="d"/>
+		<CharPos Cursor="1326" Value="u"/>
+		<CharPos Cursor="1327" Value="e"/>
+		<CharPos Cursor="1328" Value=" "/>
+		<CharPos Cursor="1329" Value="t"/>
+		<CharPos Cursor="1330" Value="o"/>
+		<CharPos Cursor="1331" Value=" "/>
+		<CharPos Cursor="1332" Value="“"/>
+		<CharPos Cursor="1333" Value="s"/>
+		<CharPos Cursor="1334" Value="c"/>
+		<CharPos Cursor="1335" Value="h"/>
+		<CharPos Cursor="1336" Value="e"/>
+		<CharPos Cursor="1337" Value="d"/>
+		<CharPos Cursor="1338" Value="u"/>
+		<CharPos Cursor="1339" Value="l"/>
+		<CharPos Cursor="1340" Value="i"/>
+		<CharPos Cursor="1341" Value="n"/>
+		<CharPos Cursor="1342" Value="g"/>
+		<CharPos Cursor="1343" Value=" "/>
+		<CharPos Cursor="1344" Value="p"/>
+		<CharPos Cursor="1345" Value="r"/>
+		<CharPos Cursor="1346" Value="o"/>
+		<CharPos Cursor="1347" Value="b"/>
+		<CharPos Cursor="1348" Value="l"/>
+		<CharPos Cursor="1349" Value="e"/>
+		<CharPos Cursor="1350" Value="m"/>
+		<CharPos Cursor="1351" Value="s"/>
+		<CharPos Cursor="1352" Value="”"/>
+		<CharPos Cursor="1353" Value="."/>
+		<CharPos Cursor="1354" Value="&#10;"/>
+		<CharPos Cursor="1355" Value="J"/>
+		<CharPos Cursor="1356" Value="u"/>
+		<CharPos Cursor="1357" Value="n"/>
+		<CharPos Cursor="1358" Value="c"/>
+		<CharPos Cursor="1359" Value="k"/>
+		<CharPos Cursor="1360" Value="e"/>
+		<CharPos Cursor="1361" Value="r"/>
+		<CharPos Cursor="1362" Value="’"/>
+		<CharPos Cursor="1363" Value="s"/>
+		<CharPos Cursor="1364" Value=" "/>
+		<CharPos Cursor="1365" Value="c"/>
+		<CharPos Cursor="1366" Value="a"/>
+		<CharPos Cursor="1367" Value="l"/>
+		<CharPos Cursor="1368" Value="l"/>
+		<CharPos Cursor="1369" Value=" "/>
+		<CharPos Cursor="1370" Value="c"/>
+		<CharPos Cursor="1371" Value="a"/>
+		<CharPos Cursor="1372" Value="m"/>
+		<CharPos Cursor="1373" Value="e"/>
+		<CharPos Cursor="1374" Value=" "/>
+		<CharPos Cursor="1375" Value="a"/>
+		<CharPos Cursor="1376" Value="f"/>
+		<CharPos Cursor="1377" Value="t"/>
+		<CharPos Cursor="1378" Value="e"/>
+		<CharPos Cursor="1379" Value="r"/>
+		<CharPos Cursor="1380" Value=" "/>
+		<CharPos Cursor="1381" Value="t"/>
+		<CharPos Cursor="1382" Value="h"/>
+		<CharPos Cursor="1383" Value="e"/>
+		<CharPos Cursor="1384" Value=" "/>
+		<CharPos Cursor="1385" Value="E"/>
+		<CharPos Cursor="1386" Value="u"/>
+		<CharPos Cursor="1387" Value="r"/>
+		<CharPos Cursor="1388" Value="o"/>
+		<CharPos Cursor="1389" Value="p"/>
+		<CharPos Cursor="1390" Value="e"/>
+		<CharPos Cursor="1391" Value="a"/>
+		<CharPos Cursor="1392" Value="n"/>
+		<CharPos Cursor="1393" Value=" "/>
+		<CharPos Cursor="1394" Value="c"/>
+		<CharPos Cursor="1395" Value="o"/>
+		<CharPos Cursor="1396" Value="m"/>
+		<CharPos Cursor="1397" Value="m"/>
+		<CharPos Cursor="1398" Value="i"/>
+		<CharPos Cursor="1399" Value="s"/>
+		<CharPos Cursor="1400" Value="s"/>
+		<CharPos Cursor="1401" Value="i"/>
+		<CharPos Cursor="1402" Value="o"/>
+		<CharPos Cursor="1403" Value="n"/>
+		<CharPos Cursor="1404" Value=" "/>
+		<CharPos Cursor="1405" Value="p"/>
+		<CharPos Cursor="1406" Value="r"/>
+		<CharPos Cursor="1407" Value="e"/>
+		<CharPos Cursor="1408" Value="s"/>
+		<CharPos Cursor="1409" Value="i"/>
+		<CharPos Cursor="1410" Value="d"/>
+		<CharPos Cursor="1411" Value="e"/>
+		<CharPos Cursor="1412" Value="n"/>
+		<CharPos Cursor="1413" Value="t"/>
+		<CharPos Cursor="1414" Value=" "/>
+		<CharPos Cursor="1415" Value="s"/>
+		<CharPos Cursor="1416" Value="p"/>
+		<CharPos Cursor="1417" Value="o"/>
+		<CharPos Cursor="1418" Value="k"/>
+		<CharPos Cursor="1419" Value="e"/>
+		<CharPos Cursor="1420" Value=" "/>
+		<CharPos Cursor="1421" Value="o"/>
+		<CharPos Cursor="1422" Value="n"/>
+		<CharPos Cursor="1423" Value=" "/>
+		<CharPos Cursor="1424" Value="t"/>
+		<CharPos Cursor="1425" Value="h"/>
+		<CharPos Cursor="1426" Value="e"/>
+		<CharPos Cursor="1427" Value=" "/>
+		<CharPos Cursor="1428" Value="p"/>
+		<CharPos Cursor="1429" Value="h"/>
+		<CharPos Cursor="1430" Value="o"/>
+		<CharPos Cursor="1431" Value="n"/>
+		<CharPos Cursor="1432" Value="e"/>
+		<CharPos Cursor="1433" Value=" "/>
+		<CharPos Cursor="1434" Value="t"/>
+		<CharPos Cursor="1435" Value="o"/>
+		<CharPos Cursor="1436" Value=" "/>
+		<CharPos Cursor="1437" Value="V"/>
+		<CharPos Cursor="1438" Value="a"/>
+		<CharPos Cursor="1439" Value="r"/>
+		<CharPos Cursor="1440" Value="a"/>
+		<CharPos Cursor="1441" Value="d"/>
+		<CharPos Cursor="1442" Value="k"/>
+		<CharPos Cursor="1443" Value="a"/>
+		<CharPos Cursor="1444" Value="r"/>
+		<CharPos Cursor="1445" Value="."/>
+		<CharPos Cursor="1446" Value="&#10;"/>
+		<CharPos Cursor="1447" Value="H"/>
+		<CharPos Cursor="1448" Value="e"/>
+		<CharPos Cursor="1449" Value=" "/>
+		<CharPos Cursor="1450" Value="t"/>
+		<CharPos Cursor="1451" Value="h"/>
+		<CharPos Cursor="1452" Value="e"/>
+		<CharPos Cursor="1453" Value="n"/>
+		<CharPos Cursor="1454" Value=" "/>
+		<CharPos Cursor="1455" Value="i"/>
+		<CharPos Cursor="1456" Value="s"/>
+		<CharPos Cursor="1457" Value="s"/>
+		<CharPos Cursor="1458" Value="u"/>
+		<CharPos Cursor="1459" Value="e"/>
+		<CharPos Cursor="1460" Value="d"/>
+		<CharPos Cursor="1461" Value=" "/>
+		<CharPos Cursor="1462" Value="a"/>
+		<CharPos Cursor="1463" Value=" "/>
+		<CharPos Cursor="1464" Value="s"/>
+		<CharPos Cursor="1465" Value="t"/>
+		<CharPos Cursor="1466" Value="a"/>
+		<CharPos Cursor="1467" Value="t"/>
+		<CharPos Cursor="1468" Value="e"/>
+		<CharPos Cursor="1469" Value="m"/>
+		<CharPos Cursor="1470" Value="e"/>
+		<CharPos Cursor="1471" Value="n"/>
+		<CharPos Cursor="1472" Value="t"/>
+		<CharPos Cursor="1473" Value=" "/>
+		<CharPos Cursor="1474" Value="s"/>
+		<CharPos Cursor="1475" Value="a"/>
+		<CharPos Cursor="1476" Value="y"/>
+		<CharPos Cursor="1477" Value="i"/>
+		<CharPos Cursor="1478" Value="n"/>
+		<CharPos Cursor="1479" Value="g"/>
+		<CharPos Cursor="1480" Value=" "/>
+		<CharPos Cursor="1481" Value="t"/>
+		<CharPos Cursor="1482" Value="h"/>
+		<CharPos Cursor="1483" Value="e"/>
+		<CharPos Cursor="1484" Value=" "/>
+		<CharPos Cursor="1485" Value="t"/>
+		<CharPos Cursor="1486" Value="w"/>
+		<CharPos Cursor="1487" Value="o"/>
+		<CharPos Cursor="1488" Value=" "/>
+		<CharPos Cursor="1489" Value="m"/>
+		<CharPos Cursor="1490" Value="e"/>
+		<CharPos Cursor="1491" Value="n"/>
+		<CharPos Cursor="1492" Value=" "/>
+		<CharPos Cursor="1493" Value="a"/>
+		<CharPos Cursor="1494" Value="g"/>
+		<CharPos Cursor="1495" Value="r"/>
+		<CharPos Cursor="1496" Value="e"/>
+		<CharPos Cursor="1497" Value="e"/>
+		<CharPos Cursor="1498" Value="d"/>
+		<CharPos Cursor="1499" Value=" "/>
+		<CharPos Cursor="1500" Value="t"/>
+		<CharPos Cursor="1501" Value="h"/>
+		<CharPos Cursor="1502" Value="a"/>
+		<CharPos Cursor="1503" Value="t"/>
+		<CharPos Cursor="1504" Value=" "/>
+		<CharPos Cursor="1505" Value="t"/>
+		<CharPos Cursor="1506" Value="h"/>
+		<CharPos Cursor="1507" Value="e"/>
+		<CharPos Cursor="1508" Value=" "/>
+		<CharPos Cursor="1509" Value="U"/>
+		<CharPos Cursor="1510" Value="K"/>
+		<CharPos Cursor="1511" Value=" "/>
+		<CharPos Cursor="1512" Value="s"/>
+		<CharPos Cursor="1513" Value="h"/>
+		<CharPos Cursor="1514" Value="o"/>
+		<CharPos Cursor="1515" Value="u"/>
+		<CharPos Cursor="1516" Value="l"/>
+		<CharPos Cursor="1517" Value="d"/>
+		<CharPos Cursor="1518" Value=" "/>
+		<CharPos Cursor="1519" Value="o"/>
+		<CharPos Cursor="1520" Value="p"/>
+		<CharPos Cursor="1521" Value="e"/>
+		<CharPos Cursor="1522" Value="n"/>
+		<CharPos Cursor="1523" Value=" "/>
+		<CharPos Cursor="1524" Value="t"/>
+		<CharPos Cursor="1525" Value="h"/>
+		<CharPos Cursor="1526" Value="e"/>
+		<CharPos Cursor="1527" Value=" "/>
+		<CharPos Cursor="1528" Value="l"/>
+		<CharPos Cursor="1529" Value="e"/>
+		<CharPos Cursor="1530" Value="g"/>
+		<CharPos Cursor="1531" Value="a"/>
+		<CharPos Cursor="1532" Value="l"/>
+		<CharPos Cursor="1533" Value=" "/>
+		<CharPos Cursor="1534" Value="t"/>
+		<CharPos Cursor="1535" Value="e"/>
+		<CharPos Cursor="1536" Value="x"/>
+		<CharPos Cursor="1537" Value="t"/>
+		<CharPos Cursor="1538" Value=" "/>
+		<CharPos Cursor="1539" Value="t"/>
+		<CharPos Cursor="1540" Value="a"/>
+		<CharPos Cursor="1541" Value="b"/>
+		<CharPos Cursor="1542" Value="l"/>
+		<CharPos Cursor="1543" Value="e"/>
+		<CharPos Cursor="1544" Value="d"/>
+		<CharPos Cursor="1545" Value=" "/>
+		<CharPos Cursor="1546" Value="o"/>
+		<CharPos Cursor="1547" Value="n"/>
+		<CharPos Cursor="1548" Value=" "/>
+		<CharPos Cursor="1549" Value="W"/>
+		<CharPos Cursor="1550" Value="e"/>
+		<CharPos Cursor="1551" Value="d"/>
+		<CharPos Cursor="1552" Value="n"/>
+		<CharPos Cursor="1553" Value="e"/>
+		<CharPos Cursor="1554" Value="s"/>
+		<CharPos Cursor="1555" Value="d"/>
+		<CharPos Cursor="1556" Value="a"/>
+		<CharPos Cursor="1557" Value="y"/>
+		<CharPos Cursor="1558" Value=" "/>
+		<CharPos Cursor="1559" Value="t"/>
+		<CharPos Cursor="1560" Value="o"/>
+		<CharPos Cursor="1561" Value=" "/>
+		<CharPos Cursor="1562" Value="p"/>
+		<CharPos Cursor="1563" Value="u"/>
+		<CharPos Cursor="1564" Value="b"/>
+		<CharPos Cursor="1565" Value="l"/>
+		<CharPos Cursor="1566" Value="i"/>
+		<CharPos Cursor="1567" Value="c"/>
+		<CharPos Cursor="1568" Value=" "/>
+		<CharPos Cursor="1569" Value="s"/>
+		<CharPos Cursor="1570" Value="c"/>
+		<CharPos Cursor="1571" Value="r"/>
+		<CharPos Cursor="1572" Value="u"/>
+		<CharPos Cursor="1573" Value="t"/>
+		<CharPos Cursor="1574" Value="i"/>
+		<CharPos Cursor="1575" Value="n"/>
+		<CharPos Cursor="1576" Value="y"/>
+		<CharPos Cursor="1577" Value="."/>
+		<CharPos Cursor="1578" Value="&#10;"/>
+	</SourceTextChar>
+	<FinalTextChar>
+		<CharPos Cursor="0" Value="让"/>
+		<CharPos Cursor="1" Value="-"/>
+		<CharPos Cursor="2" Value="克"/>
+		<CharPos Cursor="3" Value="洛"/>
+		<CharPos Cursor="4" Value="德"/>
+		<CharPos Cursor="5" Value="·"/>
+		<CharPos Cursor="6" Value="容"/>
+		<CharPos Cursor="7" Value="克"/>
+		<CharPos Cursor="8" Value="（"/>
+		<CharPos Cursor="9" Value="J"/>
+		<CharPos Cursor="10" Value="e"/>
+		<CharPos Cursor="11" Value="a"/>
+		<CharPos Cursor="12" Value="n"/>
+		<CharPos Cursor="13" Value="-"/>
+		<CharPos Cursor="14" Value="C"/>
+		<CharPos Cursor="15" Value="l"/>
+		<CharPos Cursor="16" Value="a"/>
+		<CharPos Cursor="17" Value="u"/>
+		<CharPos Cursor="18" Value="d"/>
+		<CharPos Cursor="19" Value="e"/>
+		<CharPos Cursor="20" Value=" "/>
+		<CharPos Cursor="21" Value="J"/>
+		<CharPos Cursor="22" Value="u"/>
+		<CharPos Cursor="23" Value="n"/>
+		<CharPos Cursor="24" Value="c"/>
+		<CharPos Cursor="25" Value="k"/>
+		<CharPos Cursor="26" Value="e"/>
+		<CharPos Cursor="27" Value="r"/>
+		<CharPos Cursor="28" Value="）"/>
+		<CharPos Cursor="29" Value="呼"/>
+		<CharPos Cursor="30" Value="吁"/>
+		<CharPos Cursor="31" Value="英"/>
+		<CharPos Cursor="32" Value="国"/>
+		<CharPos Cursor="33" Value="政"/>
+		<CharPos Cursor="34" Value="府"/>
+		<CharPos Cursor="35" Value="全"/>
+		<CharPos Cursor="36" Value="面"/>
+		<CharPos Cursor="37" Value="发"/>
+		<CharPos Cursor="38" Value="布"/>
+		<CharPos Cursor="39" Value="其"/>
+		<CharPos Cursor="40" Value="脱"/>
+		<CharPos Cursor="41" Value="欧"/>
+		<CharPos Cursor="42" Value="计"/>
+		<CharPos Cursor="43" Value="划"/>
+		<CharPos Cursor="44" Value="，"/>
+		<CharPos Cursor="45" Value="此"/>
+		<CharPos Cursor="46" Value="前"/>
+		<CharPos Cursor="47" Value="爱"/>
+		<CharPos Cursor="48" Value="尔"/>
+		<CharPos Cursor="49" Value="兰"/>
+		<CharPos Cursor="50" Value="总"/>
+		<CharPos Cursor="51" Value="理"/>
+		<CharPos Cursor="52" Value="指"/>
+		<CharPos Cursor="53" Value="控"/>
+		<CharPos Cursor="54" Value="鲍"/>
+		<CharPos Cursor="55" Value="哈"/>
+		<CharPos Cursor="56" Value="嘎"/>
+		<CharPos Cursor="57" Value="雅"/>
+		<CharPos Cursor="58" Value="黑"/>
+		<CharPos Cursor="59" Value="·"/>
+		<CharPos Cursor="60" Value="约"/>
+		<CharPos Cursor="61" Value="翰"/>
+		<CharPos Cursor="62" Value="逊"/>
+		<CharPos Cursor="63" Value="（"/>
+		<CharPos Cursor="64" Value="B"/>
+		<CharPos Cursor="65" Value="o"/>
+		<CharPos Cursor="66" Value="r"/>
+		<CharPos Cursor="67" Value="i"/>
+		<CharPos Cursor="68" Value="s"/>
+		<CharPos Cursor="69" Value=" "/>
+		<CharPos Cursor="70" Value="J"/>
+		<CharPos Cursor="71" Value="o"/>
+		<CharPos Cursor="72" Value="h"/>
+		<CharPos Cursor="73" Value="n"/>
+		<CharPos Cursor="74" Value="s"/>
+		<CharPos Cursor="75" Value="o"/>
+		<CharPos Cursor="76" Value="n"/>
+		<CharPos Cursor="77" Value="）"/>
+		<CharPos Cursor="78" Value="误"/>
+		<CharPos Cursor="79" Value="导"/>
+		<CharPos Cursor="80" Value="议"/>
+		<CharPos Cursor="81" Value="会"/>
+		<CharPos Cursor="82" Value="对"/>
+		<CharPos Cursor="83" Value="爱"/>
+		<CharPos Cursor="84" Value="尔"/>
+		<CharPos Cursor="85" Value="兰"/>
+		<CharPos Cursor="86" Value="边"/>
+		<CharPos Cursor="87" Value="界"/>
+		<CharPos Cursor="88" Value="的"/>
+		<CharPos Cursor="89" Value="影"/>
+		<CharPos Cursor="90" Value="响"/>
+		<CharPos Cursor="91" Value="。"/>
+		<CharPos Cursor="92" Value="&#10;"/>
+		<CharPos Cursor="93" Value="此"/>
+		<CharPos Cursor="94" Value="举"/>
+		<CharPos Cursor="95" Value="发"/>
+		<CharPos Cursor="96" Value="生"/>
+		<CharPos Cursor="97" Value="在"/>
+		<CharPos Cursor="98" Value="充"/>
+		<CharPos Cursor="99" Value="满"/>
+		<CharPos Cursor="100" Value="丫"/>
+		<CharPos Cursor="101" Value="环"/>
+		<CharPos Cursor="102" Value="用"/>
+		<CharPos Cursor="103" Value="途"/>
+		<CharPos Cursor="104" Value="一"/>
+		<CharPos Cursor="105" Value="天"/>
+		<CharPos Cursor="106" Value="，"/>
+		<CharPos Cursor="107" Value="在"/>
+		<CharPos Cursor="108" Value="此"/>
+		<CharPos Cursor="109" Value="期"/>
+		<CharPos Cursor="110" Value="间"/>
+		<CharPos Cursor="111" Value="，"/>
+		<CharPos Cursor="112" Value="约"/>
+		<CharPos Cursor="113" Value="翰"/>
+		<CharPos Cursor="114" Value="逊"/>
+		<CharPos Cursor="115" Value="希"/>
+		<CharPos Cursor="116" Value="望"/>
+		<CharPos Cursor="117" Value="在"/>
+		<CharPos Cursor="118" Value="紧"/>
+		<CharPos Cursor="119" Value="缩"/>
+		<CharPos Cursor="120" Value="峰"/>
+		<CharPos Cursor="121" Value="会"/>
+		<CharPos Cursor="122" Value="之"/>
+		<CharPos Cursor="123" Value="前"/>
+		<CharPos Cursor="124" Value="达"/>
+		<CharPos Cursor="125" Value="成"/>
+		<CharPos Cursor="126" Value="协"/>
+		<CharPos Cursor="127" Value="议"/>
+		<CharPos Cursor="128" Value="的"/>
+		<CharPos Cursor="129" Value="希"/>
+		<CharPos Cursor="130" Value="望"/>
+		<CharPos Cursor="131" Value="破"/>
+		<CharPos Cursor="132" Value="灭"/>
+		<CharPos Cursor="133" Value="了"/>
+		<CharPos Cursor="134" Value="："/>
+		<CharPos Cursor="135" Value="&#10;"/>
+		<CharPos Cursor="136" Value="欧"/>
+		<CharPos Cursor="137" Value="洲"/>
+		<CharPos Cursor="138" Value="议"/>
+		<CharPos Cursor="139" Value="会"/>
+		<CharPos Cursor="140" Value="的"/>
+		<CharPos Cursor="141" Value="英"/>
+		<CharPos Cursor="142" Value="国"/>
+		<CharPos Cursor="143" Value="脱"/>
+		<CharPos Cursor="144" Value="欧"/>
+		<CharPos Cursor="145" Value="督"/>
+		<CharPos Cursor="146" Value="导"/>
+		<CharPos Cursor="147" Value="小"/>
+		<CharPos Cursor="148" Value="组"/>
+		<CharPos Cursor="149" Value="坚"/>
+		<CharPos Cursor="150" Value="持"/>
+		<CharPos Cursor="151" Value="认"/>
+		<CharPos Cursor="152" Value="为"/>
+		<CharPos Cursor="153" Value="，"/>
+		<CharPos Cursor="154" Value="英"/>
+		<CharPos Cursor="155" Value="国"/>
+		<CharPos Cursor="156" Value="的"/>
+		<CharPos Cursor="157" Value="提"/>
+		<CharPos Cursor="158" Value="议"/>
+		<CharPos Cursor="159" Value="并"/>
+		<CharPos Cursor="160" Value="不"/>
+		<CharPos Cursor="161" Value="“"/>
+		<CharPos Cursor="162" Value="遥"/>
+		<CharPos Cursor="163" Value="遥"/>
+		<CharPos Cursor="164" Value="无"/>
+		<CharPos Cursor="165" Value="期"/>
+		<CharPos Cursor="166" Value="”"/>
+		<CharPos Cursor="167" Value="地"/>
+		<CharPos Cursor="168" Value="构"/>
+		<CharPos Cursor="169" Value="成"/>
+		<CharPos Cursor="170" Value="欧"/>
+		<CharPos Cursor="171" Value="盟"/>
+		<CharPos Cursor="172" Value="可"/>
+		<CharPos Cursor="173" Value="以"/>
+		<CharPos Cursor="174" Value="接"/>
+		<CharPos Cursor="175" Value="受"/>
+		<CharPos Cursor="176" Value="他"/>
+		<CharPos Cursor="177" Value="日"/>
+		<CharPos Cursor="178" Value="一"/>
+		<CharPos Cursor="179" Value="天"/>
+		<CharPos Cursor="180" Value="后"/>
+		<CharPos Cursor="181" Value="着"/>
+		<CharPos Cursor="182" Value="。"/>
+		<CharPos Cursor="183" Value="&#10;"/>
+		<CharPos Cursor="184" Value="欧"/>
+		<CharPos Cursor="185" Value="盟"/>
+		<CharPos Cursor="186" Value="理"/>
+		<CharPos Cursor="187" Value="事"/>
+		<CharPos Cursor="188" Value="会"/>
+		<CharPos Cursor="189" Value="主"/>
+		<CharPos Cursor="190" Value="席"/>
+		<CharPos Cursor="191" Value="唐"/>
+		<CharPos Cursor="192" Value="纳"/>
+		<CharPos Cursor="193" Value="德"/>
+		<CharPos Cursor="194" Value="·"/>
+		<CharPos Cursor="195" Value="图"/>
+		<CharPos Cursor="196" Value="斯"/>
+		<CharPos Cursor="197" Value="克"/>
+		<CharPos Cursor="198" Value="（"/>
+		<CharPos Cursor="199" Value="D"/>
+		<CharPos Cursor="200" Value="o"/>
+		<CharPos Cursor="201" Value="n"/>
+		<CharPos Cursor="202" Value="a"/>
+		<CharPos Cursor="203" Value="l"/>
+		<CharPos Cursor="204" Value="d"/>
+		<CharPos Cursor="205" Value=" "/>
+		<CharPos Cursor="206" Value="T"/>
+		<CharPos Cursor="207" Value="u"/>
+		<CharPos Cursor="208" Value="s"/>
+		<CharPos Cursor="209" Value="k"/>
+		<CharPos Cursor="210" Value="）"/>
+		<CharPos Cursor="211" Value="表"/>
+		<CharPos Cursor="212" Value="示"/>
+		<CharPos Cursor="213" Value="，"/>
+		<CharPos Cursor="214" Value="布"/>
+		<CharPos Cursor="215" Value="鲁"/>
+		<CharPos Cursor="216" Value="塞"/>
+		<CharPos Cursor="217" Value="尔"/>
+		<CharPos Cursor="218" Value="对"/>
+		<CharPos Cursor="219" Value="约"/>
+		<CharPos Cursor="220" Value="翰"/>
+		<CharPos Cursor="221" Value="逊"/>
+		<CharPos Cursor="222" Value="的"/>
+		<CharPos Cursor="223" Value="计"/>
+		<CharPos Cursor="224" Value="划"/>
+		<CharPos Cursor="225" Value="“"/>
+		<CharPos Cursor="226" Value="不"/>
+		<CharPos Cursor="227" Value="服"/>
+		<CharPos Cursor="228" Value="气"/>
+		<CharPos Cursor="229" Value="”"/>
+		<CharPos Cursor="230" Value="，"/>
+		<CharPos Cursor="231" Value="与"/>
+		<CharPos Cursor="232" Value="她"/>
+		<CharPos Cursor="233" Value="和"/>
+		<CharPos Cursor="234" Value="訮"/>
+		<CharPos Cursor="235" Value="还"/>
+		<CharPos Cursor="236" Value="是"/>
+		<CharPos Cursor="237" Value="与"/>
+		<CharPos Cursor="238" Value="她"/>
+		<CharPos Cursor="239" Value="和"/>
+		<CharPos Cursor="240" Value="。"/>
+		<CharPos Cursor="241" Value="&#10;"/>
+		<CharPos Cursor="242" Value="欧"/>
+		<CharPos Cursor="243" Value="盟"/>
+		<CharPos Cursor="244" Value="同"/>
+		<CharPos Cursor="245" Value="意"/>
+		<CharPos Cursor="246" Value="将"/>
+		<CharPos Cursor="247" Value="总"/>
+		<CharPos Cursor="248" Value="理"/>
+		<CharPos Cursor="249" Value="首"/>
+		<CharPos Cursor="250" Value="席"/>
+		<CharPos Cursor="251" Value="谈"/>
+		<CharPos Cursor="252" Value="判"/>
+		<CharPos Cursor="253" Value="代"/>
+		<CharPos Cursor="254" Value="表"/>
+		<CharPos Cursor="255" Value="戴"/>
+		<CharPos Cursor="256" Value="维"/>
+		<CharPos Cursor="257" Value="·"/>
+		<CharPos Cursor="258" Value="弗"/>
+		<CharPos Cursor="259" Value="罗"/>
+		<CharPos Cursor="260" Value="斯"/>
+		<CharPos Cursor="261" Value="特"/>
+		<CharPos Cursor="262" Value="（"/>
+		<CharPos Cursor="263" Value="D"/>
+		<CharPos Cursor="264" Value="a"/>
+		<CharPos Cursor="265" Value="v"/>
+		<CharPos Cursor="266" Value="i"/>
+		<CharPos Cursor="267" Value="d"/>
+		<CharPos Cursor="268" Value=" "/>
+		<CharPos Cursor="269" Value="F"/>
+		<CharPos Cursor="270" Value="r"/>
+		<CharPos Cursor="271" Value="o"/>
+		<CharPos Cursor="272" Value="s"/>
+		<CharPos Cursor="273" Value="t"/>
+		<CharPos Cursor="274" Value="）"/>
+		<CharPos Cursor="275" Value="的"/>
+		<CharPos Cursor="276" Value="最"/>
+		<CharPos Cursor="277" Value="后"/>
+		<CharPos Cursor="278" Value="期"/>
+		<CharPos Cursor="279" Value="限"/>
+		<CharPos Cursor="280" Value="与"/>
+		<CharPos Cursor="281" Value="她"/>
+		<CharPos Cursor="282" Value="和"/>
+		<CharPos Cursor="283" Value="卷"/>
+		<CharPos Cursor="284" Value="烟"/>
+		<CharPos Cursor="285" Value="很"/>
+		<CharPos Cursor="286" Value="快"/>
+		<CharPos Cursor="287" Value="就"/>
+		<CharPos Cursor="288" Value="会"/>
+		<CharPos Cursor="289" Value="，"/>
+		<CharPos Cursor="290" Value="以"/>
+		<CharPos Cursor="291" Value="就"/>
+		<CharPos Cursor="292" Value="关"/>
+		<CharPos Cursor="293" Value="键"/>
+		<CharPos Cursor="294" Value="症"/>
+		<CharPos Cursor="295" Value="结"/>
+		<CharPos Cursor="296" Value="提"/>
+		<CharPos Cursor="297" Value="供"/>
+		<CharPos Cursor="298" Value="新"/>
+		<CharPos Cursor="299" Value="的"/>
+		<CharPos Cursor="300" Value="解"/>
+		<CharPos Cursor="301" Value="决"/>
+		<CharPos Cursor="302" Value="方"/>
+		<CharPos Cursor="303" Value="案"/>
+		<CharPos Cursor="304" Value="。"/>
+		<CharPos Cursor="305" Value="&#10;"/>
+		<CharPos Cursor="306" Value="民"/>
+		<CharPos Cursor="307" Value="主"/>
+		<CharPos Cursor="308" Value="联"/>
+		<CharPos Cursor="309" Value="盟"/>
+		<CharPos Cursor="310" Value="党"/>
+		<CharPos Cursor="311" Value="领"/>
+		<CharPos Cursor="312" Value="袖"/>
+		<CharPos Cursor="313" Value="阿"/>
+		<CharPos Cursor="314" Value="琳"/>
+		<CharPos Cursor="315" Value="·"/>
+		<CharPos Cursor="316" Value="福"/>
+		<CharPos Cursor="317" Value="斯"/>
+		<CharPos Cursor="318" Value="特"/>
+		<CharPos Cursor="319" Value="（"/>
+		<CharPos Cursor="320" Value="A"/>
+		<CharPos Cursor="321" Value="r"/>
+		<CharPos Cursor="322" Value="l"/>
+		<CharPos Cursor="323" Value="e"/>
+		<CharPos Cursor="324" Value="n"/>
+		<CharPos Cursor="325" Value="e"/>
+		<CharPos Cursor="326" Value=" "/>
+		<CharPos Cursor="327" Value="F"/>
+		<CharPos Cursor="328" Value="o"/>
+		<CharPos Cursor="329" Value="s"/>
+		<CharPos Cursor="330" Value="t"/>
+		<CharPos Cursor="331" Value="e"/>
+		<CharPos Cursor="332" Value="r"/>
+		<CharPos Cursor="333" Value="）"/>
+		<CharPos Cursor="334" Value="支"/>
+		<CharPos Cursor="335" Value="持"/>
+		<CharPos Cursor="336" Value="约"/>
+		<CharPos Cursor="337" Value="翰"/>
+		<CharPos Cursor="338" Value="逊"/>
+		<CharPos Cursor="339" Value="的"/>
+		<CharPos Cursor="340" Value="计"/>
+		<CharPos Cursor="341" Value="划"/>
+		<CharPos Cursor="342" Value="，"/>
+		<CharPos Cursor="343" Value="他"/>
+		<CharPos Cursor="344" Value="坚"/>
+		<CharPos Cursor="345" Value="称"/>
+		<CharPos Cursor="346" Value="，"/>
+		<CharPos Cursor="347" Value="如"/>
+		<CharPos Cursor="348" Value="果"/>
+		<CharPos Cursor="349" Value="他"/>
+		<CharPos Cursor="350" Value="在"/>
+		<CharPos Cursor="351" Value="爱"/>
+		<CharPos Cursor="352" Value="尔"/>
+		<CharPos Cursor="353" Value="兰"/>
+		<CharPos Cursor="354" Value="岛"/>
+		<CharPos Cursor="355" Value="上"/>
+		<CharPos Cursor="356" Value="建"/>
+		<CharPos Cursor="357" Value="立"/>
+		<CharPos Cursor="358" Value="坚"/>
+		<CharPos Cursor="359" Value="硬"/>
+		<CharPos Cursor="360" Value="的"/>
+		<CharPos Cursor="361" Value="边"/>
+		<CharPos Cursor="362" Value="界"/>
+		<CharPos Cursor="363" Value="，"/>
+		<CharPos Cursor="364" Value="那"/>
+		<CharPos Cursor="365" Value="道"/>
+		<CharPos Cursor="366" Value="道"/>
+		<CharPos Cursor="367" Value="教"/>
+		<CharPos Cursor="368" Value="皇"/>
+		<CharPos Cursor="369" Value="莱"/>
+		<CharPos Cursor="370" Value="奥"/>
+		<CharPos Cursor="371" Value="·"/>
+		<CharPos Cursor="372" Value="瓦"/>
+		<CharPos Cursor="373" Value="拉"/>
+		<CharPos Cursor="374" Value="德"/>
+		<CharPos Cursor="375" Value="卡"/>
+		<CharPos Cursor="376" Value="（"/>
+		<CharPos Cursor="377" Value="L"/>
+		<CharPos Cursor="378" Value="e"/>
+		<CharPos Cursor="379" Value="o"/>
+		<CharPos Cursor="380" Value=" "/>
+		<CharPos Cursor="381" Value="V"/>
+		<CharPos Cursor="382" Value="a"/>
+		<CharPos Cursor="383" Value="r"/>
+		<CharPos Cursor="384" Value="a"/>
+		<CharPos Cursor="385" Value="d"/>
+		<CharPos Cursor="386" Value="k"/>
+		<CharPos Cursor="387" Value="a"/>
+		<CharPos Cursor="388" Value="r"/>
+		<CharPos Cursor="389" Value="）"/>
+		<CharPos Cursor="390" Value="将"/>
+		<CharPos Cursor="391" Value="“"/>
+		<CharPos Cursor="392" Value="走"/>
+		<CharPos Cursor="393" Value="上"/>
+		<CharPos Cursor="394" Value="历"/>
+		<CharPos Cursor="395" Value="史"/>
+		<CharPos Cursor="396" Value="”"/>
+		<CharPos Cursor="397" Value="。"/>
+		<CharPos Cursor="398" Value="哈"/>
+		<CharPos Cursor="399" Value="给"/>
+		<CharPos Cursor="400" Value="吉"/>
+		<CharPos Cursor="401" Value="他"/>
+		<CharPos Cursor="402" Value="哥"/>
+		<CharPos Cursor="403" Value="。"/>
+		<CharPos Cursor="404" Value="&#10;"/>
+		<CharPos Cursor="405" Value="由"/>
+		<CharPos Cursor="406" Value="于"/>
+		<CharPos Cursor="407" Value="“"/>
+		<CharPos Cursor="408" Value="日"/>
+		<CharPos Cursor="409" Value="程"/>
+		<CharPos Cursor="410" Value="安"/>
+		<CharPos Cursor="411" Value="排"/>
+		<CharPos Cursor="412" Value="问"/>
+		<CharPos Cursor="413" Value="题"/>
+		<CharPos Cursor="414" Value="”"/>
+		<CharPos Cursor="415" Value="，"/>
+		<CharPos Cursor="416" Value="约"/>
+		<CharPos Cursor="417" Value="翰"/>
+		<CharPos Cursor="418" Value="逊"/>
+		<CharPos Cursor="419" Value="未"/>
+		<CharPos Cursor="420" Value="能"/>
+		<CharPos Cursor="421" Value="与"/>
+		<CharPos Cursor="422" Value="德"/>
+		<CharPos Cursor="423" Value="国"/>
+		<CharPos Cursor="424" Value="总"/>
+		<CharPos Cursor="425" Value="理"/>
+		<CharPos Cursor="426" Value="安"/>
+		<CharPos Cursor="427" Value="格"/>
+		<CharPos Cursor="428" Value="拉"/>
+		<CharPos Cursor="429" Value="·"/>
+		<CharPos Cursor="430" Value="默"/>
+		<CharPos Cursor="431" Value="克"/>
+		<CharPos Cursor="432" Value="尔"/>
+		<CharPos Cursor="433" Value="（"/>
+		<CharPos Cursor="434" Value="A"/>
+		<CharPos Cursor="435" Value="n"/>
+		<CharPos Cursor="436" Value="g"/>
+		<CharPos Cursor="437" Value="e"/>
+		<CharPos Cursor="438" Value="l"/>
+		<CharPos Cursor="439" Value="a"/>
+		<CharPos Cursor="440" Value=" "/>
+		<CharPos Cursor="441" Value="M"/>
+		<CharPos Cursor="442" Value="e"/>
+		<CharPos Cursor="443" Value="r"/>
+		<CharPos Cursor="444" Value="k"/>
+		<CharPos Cursor="445" Value="e"/>
+		<CharPos Cursor="446" Value="l"/>
+		<CharPos Cursor="447" Value="）"/>
+		<CharPos Cursor="448" Value="和"/>
+		<CharPos Cursor="449" Value="法"/>
+		<CharPos Cursor="450" Value="国"/>
+		<CharPos Cursor="451" Value="总"/>
+		<CharPos Cursor="452" Value="统"/>
+		<CharPos Cursor="453" Value="伊"/>
+		<CharPos Cursor="454" Value="曼"/>
+		<CharPos Cursor="455" Value="纽"/>
+		<CharPos Cursor="456" Value="尔"/>
+		<CharPos Cursor="457" Value="·"/>
+		<CharPos Cursor="458" Value="马"/>
+		<CharPos Cursor="459" Value="克"/>
+		<CharPos Cursor="460" Value="龙"/>
+		<CharPos Cursor="461" Value="（"/>
+		<CharPos Cursor="462" Value="E"/>
+		<CharPos Cursor="463" Value="m"/>
+		<CharPos Cursor="464" Value="m"/>
+		<CharPos Cursor="465" Value="a"/>
+		<CharPos Cursor="466" Value="n"/>
+		<CharPos Cursor="467" Value="u"/>
+		<CharPos Cursor="468" Value="e"/>
+		<CharPos Cursor="469" Value="l"/>
+		<CharPos Cursor="470" Value=" "/>
+		<CharPos Cursor="471" Value="M"/>
+		<CharPos Cursor="472" Value="a"/>
+		<CharPos Cursor="473" Value="c"/>
+		<CharPos Cursor="474" Value="r"/>
+		<CharPos Cursor="475" Value="o"/>
+		<CharPos Cursor="476" Value="n"/>
+		<CharPos Cursor="477" Value="）"/>
+		<CharPos Cursor="478" Value="会"/>
+		<CharPos Cursor="479" Value="晤"/>
+		<CharPos Cursor="480" Value="，"/>
+		<CharPos Cursor="481" Value="导"/>
+		<CharPos Cursor="482" Value="致"/>
+		<CharPos Cursor="483" Value="约"/>
+		<CharPos Cursor="484" Value="翰"/>
+		<CharPos Cursor="485" Value="逊"/>
+		<CharPos Cursor="486" Value="对"/>
+		<CharPos Cursor="487" Value="欧"/>
+		<CharPos Cursor="488" Value="盟"/>
+		<CharPos Cursor="489" Value="各"/>
+		<CharPos Cursor="490" Value="国"/>
+		<CharPos Cursor="491" Value="首"/>
+		<CharPos Cursor="492" Value="都"/>
+		<CharPos Cursor="493" Value="进"/>
+		<CharPos Cursor="494" Value="行"/>
+		<CharPos Cursor="495" Value="口"/>
+		<CharPos Cursor="496" Value="哨"/>
+		<CharPos Cursor="497" Value="之"/>
+		<CharPos Cursor="498" Value="旅"/>
+		<CharPos Cursor="499" Value="的"/>
+		<CharPos Cursor="500" Value="计"/>
+		<CharPos Cursor="501" Value="划"/>
+		<CharPos Cursor="502" Value="陷"/>
+		<CharPos Cursor="503" Value="一"/>
+		<CharPos Cursor="504" Value="哈"/>
+		<CharPos Cursor="505" Value="就"/>
+		<CharPos Cursor="506" Value="骄"/>
+		<CharPos Cursor="507" Value="傲"/>
+		<CharPos Cursor="508" Value="u"/>
+		<CharPos Cursor="509" Value="和"/>
+		<CharPos Cursor="510" Value="。"/>
+		<CharPos Cursor="511" Value="&#10;"/>
+		<CharPos Cursor="512" Value="欧"/>
+		<CharPos Cursor="513" Value="盟"/>
+		<CharPos Cursor="514" Value="委"/>
+		<CharPos Cursor="515" Value="员"/>
+		<CharPos Cursor="516" Value="会"/>
+		<CharPos Cursor="517" Value="主"/>
+		<CharPos Cursor="518" Value="席"/>
+		<CharPos Cursor="519" Value="在"/>
+		<CharPos Cursor="520" Value="电"/>
+		<CharPos Cursor="521" Value="话"/>
+		<CharPos Cursor="522" Value="中"/>
+		<CharPos Cursor="523" Value="对"/>
+		<CharPos Cursor="524" Value="瓦"/>
+		<CharPos Cursor="525" Value="拉"/>
+		<CharPos Cursor="526" Value="德"/>
+		<CharPos Cursor="527" Value="卡"/>
+		<CharPos Cursor="528" Value="尔"/>
+		<CharPos Cursor="529" Value="（"/>
+		<CharPos Cursor="530" Value="V"/>
+		<CharPos Cursor="531" Value="a"/>
+		<CharPos Cursor="532" Value="r"/>
+		<CharPos Cursor="533" Value="a"/>
+		<CharPos Cursor="534" Value="d"/>
+		<CharPos Cursor="535" Value="k"/>
+		<CharPos Cursor="536" Value="a"/>
+		<CharPos Cursor="537" Value="r"/>
+		<CharPos Cursor="538" Value="）"/>
+		<CharPos Cursor="539" Value="讲"/>
+		<CharPos Cursor="540" Value="话"/>
+		<CharPos Cursor="541" Value="后"/>
+		<CharPos Cursor="542" Value="，"/>
+		<CharPos Cursor="543" Value="垩"/>
+		<CharPos Cursor="544" Value="绢"/>
+		<CharPos Cursor="545" Value="花"/>
+		<CharPos Cursor="546" Value="。"/>
+		<CharPos Cursor="547" Value="&#10;"/>
+		<CharPos Cursor="548" Value="然"/>
+		<CharPos Cursor="549" Value="后"/>
+		<CharPos Cursor="550" Value="，"/>
+		<CharPos Cursor="551" Value="他"/>
+		<CharPos Cursor="552" Value="发"/>
+		<CharPos Cursor="553" Value="表"/>
+		<CharPos Cursor="554" Value="声"/>
+		<CharPos Cursor="555" Value="明"/>
+		<CharPos Cursor="556" Value="说"/>
+		<CharPos Cursor="557" Value="，"/>
+		<CharPos Cursor="558" Value="两"/>
+		<CharPos Cursor="559" Value="人"/>
+		<CharPos Cursor="560" Value="同"/>
+		<CharPos Cursor="561" Value="意"/>
+		<CharPos Cursor="562" Value="英"/>
+		<CharPos Cursor="563" Value="国"/>
+		<CharPos Cursor="564" Value="应"/>
+		<CharPos Cursor="565" Value="将"/>
+		<CharPos Cursor="566" Value="周"/>
+		<CharPos Cursor="567" Value="三"/>
+		<CharPos Cursor="568" Value="提"/>
+		<CharPos Cursor="569" Value="交"/>
+		<CharPos Cursor="570" Value="的"/>
+		<CharPos Cursor="571" Value="法"/>
+		<CharPos Cursor="572" Value="律"/>
+		<CharPos Cursor="573" Value="文"/>
+		<CharPos Cursor="574" Value="本"/>
+		<CharPos Cursor="575" Value="公"/>
+		<CharPos Cursor="576" Value="开"/>
+		<CharPos Cursor="577" Value="接"/>
+		<CharPos Cursor="578" Value="受"/>
+		<CharPos Cursor="579" Value="u"/>
+		<CharPos Cursor="580" Value="轧"/>
+		<CharPos Cursor="581" Value="花"/>
+		<CharPos Cursor="582" Value="机"/>
+		<CharPos Cursor="583" Value="卷"/>
+		<CharPos Cursor="584" Value="好"/>
+		<CharPos Cursor="585" Value="。"/>
+		<CharPos Cursor="586" Value="&#10;"/>
+	</FinalTextChar>
+</LogFile>
